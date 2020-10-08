@@ -8,6 +8,18 @@ testing game to a higher level of polish.
 You need to understand the criteria you're testing against to keep everyone up
 to speed and on the ball.
 
+ALSO - in discussing various criteria, it is a god time to remind ourselves that
+testing for ONE CRITERIA at a time is frequently the best practice.
+
+- Evaluating one criteria at a time helps us to keep focus and not lose track of
+  any criteria.
+  - You might end up using multiple parts of a system out of necessity, but
+    slimming tests down can lead to better coverage.
+- **Masking Results** is what happens when a test fails early, say, in searching
+  for an item, and so managing the cart never gets checked, and no one realizes
+  that you cannot remove items from the cart until much ler after the login bug
+  is resolved.
+
 ## Setup
 
 - Have the application requirements handy:

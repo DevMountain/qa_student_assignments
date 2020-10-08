@@ -12,8 +12,8 @@ What states are there in Employee Manager that we need to watch?
 
 ## Step 1
 
-Create a state transition diagram showing the flow through editing an employee
-record.
+Create a state transition diagram showing the user's flow through the
+application.
 
 Remember:
 
@@ -25,7 +25,7 @@ Remember:
 <details> <summary> Possible Solution </summary>
 
 Your diagram might look different, and that's ok!
-![Starting state transition diagram](../../../assets/needAsset.png)
+![Starting state transition diagram for Employee Manager v1.1](../../../assets/needAsset.png)
 
 </details>
 
@@ -47,7 +47,9 @@ For each state/transition:
 <details> <summary> Possible Solution </summary>
 
 As before, yours might look different, but:
-![Color coded state transition diagram](../../../assets/needsAsset.png)
+![Color coded state transition diagram for Employee Manager v1.1](../../../assets/needsAsset.png)
+
+</details>
 
 ## Step 4
 
