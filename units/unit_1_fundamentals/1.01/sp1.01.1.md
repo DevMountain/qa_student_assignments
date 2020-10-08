@@ -1,3 +1,5 @@
+# Hands on Testing
+
 ## Skills Practice Summary
 
 As part of getting to know the product a bit better, your task is to follow the

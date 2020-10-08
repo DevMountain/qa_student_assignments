@@ -1,3 +1,5 @@
+# Exploratory Testing
+
 ## Skills Practice Summary
 
 With the notes that you have on what should be tested
