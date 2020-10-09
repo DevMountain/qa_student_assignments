@@ -24,6 +24,23 @@ Where could we go for answers?
 Find what you feel is a good answer to the question above by searchinghe
 internet using the resources above, or another that you have found.
 
+<details> <summary> Potential result... </summary>
+
+A google search for:
+
+> how do I write manual tests to make them easy to automate
+
+led me to a blog post that comes at it from a different direction but gives a
+good guide:
+
+- [How to Convert Manual Test Cases into Automated Test Cases and Why?](https://testsigma.com/blog/how-to-convert-manual-test-cases-into-automated-test-cases-and-why/)
+  By `testsigma`'s Mohammad Adil
+
+It discusses how to convert manual tests, but part of that talks about wha they
+consider to be the ideal manual test case design to make it easier.
+
+</details>
+
 ## Step 2
 
 Consider the tool specific question:
@@ -36,5 +53,16 @@ that tool.
 
 Find an answer for this question by looking in the
 [official Jira docs](https://support.atlassian.com/jira-software-cloud/resources/).
+
+A simple search for:
+
+> How do I use Epic Links?
+
+yields a number of good results.
+
+- Remember sometimes it's good to start high level, to make sure you understand
+  what you're asking first.
+  - Do you understand epics and why we use them? Without that foundation, you
+    many not understand the result.
 
 ## **_Good work!_**
