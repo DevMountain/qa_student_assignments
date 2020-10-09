@@ -55,6 +55,14 @@ following:
    and take notes on the problems found in the **Problems Found** section of
    your document.
 
-## Step 3
+## Submit
 
-- Submit your updated document in Canvas.
+Submit your updated document in Canvas.
+
+## Stretch
+
+Adapt your notes to target two different audiences. How would you explain the
+possible bugs you found:
+
+1. To a developer?
+1. To the person paying your company for this application?

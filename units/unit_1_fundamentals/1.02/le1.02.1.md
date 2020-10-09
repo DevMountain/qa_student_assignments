@@ -33,6 +33,22 @@ following:
    - Leave the **Testing Summary** in the **Reporting** section blank for now.
 1. When complete, update the Jira Status of test plan to **Done**.
 
-## Step 3
+## Submit
 
-- Submit a link to the test plan in Canvas.
+Simply mark this assignment complete in Canvas. We will find it based upon the
+test plan submitted earlier.
+
+## Stretch
+
+Following these same steps a number of times can help to solidify the thought
+process, even if you won't always write up a test plan in the industry.
+
+There are links to a few applications below, which may or may not have
+accompanying docmentation; try picking one and following the process to write up
+your test plan for it!
+
+Apps:
+
+- [apps needed](assetNeeded)
+-
+-

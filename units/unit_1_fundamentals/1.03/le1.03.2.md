@@ -44,6 +44,19 @@ following:
    - A request for their feedback on your plan, and any issues you may have
      missed.
 
-## Step 3
+## Submit
 
-- Submit your writeup in Canvas as text, or as a file.
+Submit your writeup in Canvas as text, or as a file.
+
+## Stretch
+
+Customers will frequently use opportunities like this to sneak in additional
+features or desired changes. It's not that they're necessarily trying to get
+something for nothing, it's natural; we do the same thing sometimes submitting
+reviews in the app store, wanting new features, etc.
+
+Identify what sorts of features you think your customer might ask for in a
+situation like this.
+
+- Should you go along with it and promise them the new items?
+- Why or why not?

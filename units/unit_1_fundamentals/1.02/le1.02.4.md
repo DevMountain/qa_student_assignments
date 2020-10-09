@@ -36,6 +36,12 @@ section.
 - Provide your honest assessment as to the overall quality of the application.
   - Do you consider it ready for delivery to a customer?
 
-**Note**: You will not need to directly submit this exercise, only mark it done.
-We will look for your test cases in your Jira project, the same place you
-created your Test Plan.
+## Submit
+
+Simply mark this assignment complete in Canvas. We will find it based upon the
+test plan submitted earlier.
+
+## Stretch
+
+Using the same application selected in your test plan stretch, write up your
+testing summary!
