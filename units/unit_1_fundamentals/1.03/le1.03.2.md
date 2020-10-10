@@ -5,7 +5,7 @@
 ## Summary
 
 Your customer _had_ been anxiously awaiting the delivery of your latest version
-of your product. They were given the same version of "assetNeeded" at you have
+of your product. They were given the same version of "Flashcards" at you have
 been testing.
 
 Consider what they might think of it?

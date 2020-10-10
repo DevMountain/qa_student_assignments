@@ -5,11 +5,11 @@
 ## Summary
 
 Now that you're aware of just what acceptance criteria are, look back at your
-last lab exercise, the project "assetNeeded".
+last lab exercise, the project "Flashcards".
 
 It should be apparent that the requirements you were given were almost purely
-functional; it's time to include acceptance criteria, and update your results
-accordingly.
+functional; which makes sense when your requirements are all development tasks.
+It's time to include acceptance criteria, and update your results accordingly.
 
 <details> <summary> <strong> For Your Review </strong> </summary>
 
@@ -25,8 +25,8 @@ following:
 
 ## Step 1
 
-1. Find the project "assetNeeded" in Jira.
-1. Open the [requirements for assetNeeded](./assetNeeded.html).
+1. Find the project "{your name} Flashcards" in Jira.
+   - Remembmer, the tasks in Jira are serving AS your documentation.
 1. Update your test plan and tests for the following list of acceptance
    criteria.
    - Feel free to update the list with accptance criteria you determined
@@ -37,9 +37,12 @@ following:
 
 ### Acceptance Criteria
 
-- asset needed
--
--
+- As a user, I should be able to sign up for a new account.
+- As a user, I should be able to manage my profile easily.
+- As a user, I should be able to find flashcards easily.
+- As a user, the flashcards should be intuitive to add, update, and review.
+- As a user, I should find the performance acceptable, and the appearance
+  adequate.
 
 ## Step 2
 

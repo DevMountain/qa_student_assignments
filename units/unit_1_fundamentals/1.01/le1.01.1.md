@@ -40,7 +40,8 @@ following:
 
 ## Step 2
 
-Review the documentation for [needs project w/docs](./needAsset.html).
+Review the documentation for
+[Enter Wanted v1.4](https://devmountain-qa.github.io/enter-wanted/1.4_README.html).
 
 ## Step 3
 

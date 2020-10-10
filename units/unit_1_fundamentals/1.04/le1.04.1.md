@@ -25,11 +25,11 @@ following:
 
 ## Step 1
 
-1. Look for the project "assetNeeded" in Jira. You'll see there are several bugs
-   and a few tasks in the project, to fix a few problems and bring the
+1. Look for the project "{your name} Todo" in Jira. You'll see there are several
+   bugs and a few tasks in the project, to fix a few problems and bring the
    application up to date.
 1. Review these tasks, and spend a few minutes clicking around the application:
-   [assetNeeded](./assetNeeded.html)
+   [Todos](https://devmountain.github.io/qa_todos)
 
 ## Step 2
 

@@ -47,7 +47,8 @@ following:
 
 ## Step 4
 
-1. Open [the applcation](./needAsset.html), and...
+1. Open the app [Flashcards](https://devmountain.github.io/qa_flashcards/),
+   and...
 1. Execute each test! Take only brief notes on any problems found.
 1. Add a "Test Execution" subtask calle "Initial Test", and mark its Jira Status
    as **Passed** or **Failed**.

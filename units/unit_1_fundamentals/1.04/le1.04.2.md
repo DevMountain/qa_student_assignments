@@ -22,11 +22,12 @@ following:
 
 ## Step 1
 
-1. Find the project "assetNeeded" in Jira.
+1. Find the project "{your name} Recipe Cards" in Jira.
    - You'll notice the project is empty. The project is just here as a separate
      home for your test cases.
-1. Click around the application [assetNeeded](./assetNeeded.html) enough to have
-   a rough idea of its states and triggering transitions.
+1. Click around the application
+   [Recipe Cards](https://devmountain.github.io/qa_recipes/#/) enough to have a
+   rough idea of its states and triggering transitions.
 1. Create a State Transition Diagram, and match it with a State Transition
    Table.
    - If you wanted to, try breaking things down into more than one diagram to

@@ -33,7 +33,8 @@ following:
 ## Step 2
 
 Do your best to follow their built in tutorial to test
-[this application](assetNeeded).
+[MIT Todo](https://github.com/DevMountain/qa_todos) from
+[LE 1.04.1](../1.04/le1.04.md).
 
 ## Step 3
 

@@ -23,7 +23,8 @@ following:
 
 1. Have the document you created for the exercise
    [Plan for Testing (LE 1.01.1)](./le1.01.1.md) open.
-1. Open the documenttion for [needs project w/docs](./needAsset.html).
+1. Open the documentation for
+   [Enter Wanted v1.4](https://devmountain-qa.github.io/enter-wanted/1.4_README.html).
 1. In this document add one more section:
    - **Problems Found**
 
@@ -50,7 +51,8 @@ following:
 
 ## Step 2
 
-1. Access the app, [link to the app](./needAsset.html).
+1. Access the app
+   [Enter Wanted v1.4](https://devmountain-qa.github.io/enter-wanted/1.4_Assignment/index.html).
 1. Following your notes on testing the different areas, test the application,
    and take notes on the problems found in the **Problems Found** section of
    your document.

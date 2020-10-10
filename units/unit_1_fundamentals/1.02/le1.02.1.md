@@ -22,8 +22,10 @@ following:
 
 ## Step 1
 
-1. Find the project "assetNeeded" in Jira.
+1. Find the project "{your name} Flashcards" in Jira.
 1. Look over the tasks that are "Ready for Testing".
+   - You don't need access to the test environment right now, so don't worry
+     about that.
 1. Take a briefer look at the other tasks.
 
 ## Step 2
@@ -35,20 +37,12 @@ following:
 
 ## Submit
 
-Simply mark this assignment complete in Canvas. We will find it based upon the
-test plan submitted earlier.
+Submit a link to your test plan in Canvas to complete this assignment.
 
 ## Stretch
 
 Following these same steps a number of times can help to solidify the thought
 process, even if you won't always write up a test plan in the industry.
 
-There are links to a few applications below, which may or may not have
-accompanying docmentation; try picking one and following the process to write up
-your test plan for it!
-
-Apps:
-
-- [apps needed](assetNeeded)
--
--
+Choose an application, web, mobile, desktop, any of the above, and create
+yourself a new project in Jira to practice with.

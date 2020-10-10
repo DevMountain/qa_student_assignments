@@ -22,10 +22,10 @@ following:
 
 ## Step 1
 
-1. Find the project "assetNeeded" in Jira.
+1. Find the project "{your name} Home Loan Wizard" in Jira.
    - There is only one task currently in this project, which contains
-     documentation on how the system under test is supposed to know whether to
-     approve or reject an application.
+     documentation on how the system under test is supposed to know how to
+     handle the application.
 1. Review the documentation.
 1. Create a table documenting the decision rules for the system, and attach it
    to a new test cases in the Jira project.
@@ -53,3 +53,7 @@ Try documenting these tests different ways:
 
 Do you find that there are certain ways of using decision rules you prefer? Or
 are there reasons you are not a fan of the design technique?
+
+You can also test the application in question,
+[Home Loan Wizard](https://devmountain.github.io/qa_appHandling) and track your
+testing in the Jira project created for it.

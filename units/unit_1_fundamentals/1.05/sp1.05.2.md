@@ -13,8 +13,7 @@ able to find answers more readily.
 
 ## Setup
 
-- Have at least one bug pulled up in your Jira project.
-  - You can use [Jira Link](./needAsset) if lacking any others.
+- Pull up a bug _you_ reported in Jira.
 
 ## Step 1
 
@@ -27,8 +26,8 @@ Your bug report would do well to be linked to a test that checks it out.
 
 Link them together, marking that your test "Tests" the bug report.
 
-- See this [tutorial](./linkJiraTutorial) if you need help figuring out how to
-  link Jia issues together.
+<!-- - See this [tutorial](./linkJiraTutorial) if you need help figuring out how to
+  link Jia issues together. -->
 
 This will make life WAY easier for the QA that gets the job to do confirmation
 testing for the bug fix, and easier for the developer who now has an idea how to
