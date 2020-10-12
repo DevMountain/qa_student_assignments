@@ -39,6 +39,20 @@ It's time to add tests for any areas completely missing coverage.
   that need exploring. Be sure to take note.
 
 **Note:** Do not worry about updating existing test cases for this practice
-exercise, ast hat will be covered in [Skills Practice 1.06.2](./sp1.05.2.md).
+exercise, as that will be covered in [Skills Practice 1.06.2](./sp1.05.2.md).
+
+## Step 3
+
+If you were limited on time, how would you know which tests needed updating or
+executing the soonest?
+
+- Review the areas that need new tests or updates to existing tests
+- Perform Risk Analysis, and estimate the Level of Risk for each.
+  - Likelihood: An estimate of how likely a problem is to occur (either a
+    percentage, or a 1-5 scale, etc.)
+  - Cost: An estimate of the cost (could be in \$\$, time, etc)
+  - Level of Risk = Likelihood \* Cost
+- Pick the three areas you'd definitely cover, and the one you would let slide
+  if you needed.
 
 ## **_Good work!_**
