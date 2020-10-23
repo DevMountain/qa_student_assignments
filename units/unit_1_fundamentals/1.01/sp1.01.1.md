@@ -14,6 +14,7 @@ other:
 
 1. Open [Jira](https://dmutah.atlassian.net)
 1. Navigate to your Devmountain Labs project.
+   - i.e. `QAJ Devmountain Labs`.
 1. The tests mentioned will be "Test Case" issues with a "To Do" status in your
    project.
 1. Make sure the tests open, and that you can follow their links to **Employee
