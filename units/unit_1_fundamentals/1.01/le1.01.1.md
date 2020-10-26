@@ -29,12 +29,13 @@ following:
 
 <details> <summary> Example Doc </summary>
 
-```
+{% highlight markdown %}
+
 - Questions
 
 - Testing
 
-```
+{% endhighlight %}
 
 </details>
 
