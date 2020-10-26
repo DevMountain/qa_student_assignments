@@ -24,7 +24,8 @@ testing for ONE CRITERIA at a time is frequently the best practice.
 
 - Have the application requirements handy:
   [Employee Manager v1.1 Requirements](https://devmountain-qa.github.io/employee-manager/1.1_README.html).
-- Review any criteria you identified for [Skills Practice 1.03.2](./sp1.03.2.md)
+- Review any criteria you identified for
+  [Skills Practice 1.03.2](./sp1.03.2.html)
 
 ## Step 1
 

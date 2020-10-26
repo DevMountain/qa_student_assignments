@@ -1,6 +1,6 @@
 ## **DM Labs: Help From A Peer**
 
-After a rough first day, [Jordan](../../../personas/Jordan.md), an experienced
+After a rough first day, [Jordan](../../../personas/Jordan.html), an experienced
 QA Engineer is brought over to help start your “real” on the job training, as
 they call it.
 

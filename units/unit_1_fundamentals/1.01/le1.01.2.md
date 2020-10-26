@@ -13,16 +13,16 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Hands on Testing](./sp1.01.1.md)
-  - [Document Review](./sp1.01.2.md)
-  - [Exploratory Testing](./sp1.01.3.md)
+  - [Hands on Testing](./sp1.01.1.html)
+  - [Document Review](./sp1.01.2.html)
+  - [Exploratory Testing](./sp1.01.3.html)
 
 </details>
 
 ## Step 1
 
 1. Have the document you created for the exercise
-   [Plan for Testing (LE 1.01.1)](./le1.01.1.md) open.
+   [Plan for Testing (LE 1.01.1)](./le1.01.1.html) open.
 1. Open the documentation for
    [Enter Wanted v1.4](https://devmountain-qa.github.io/enter-wanted/1.4_README.html).
 1. In this document add one more section:

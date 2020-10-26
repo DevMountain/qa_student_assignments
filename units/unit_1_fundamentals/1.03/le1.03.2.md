@@ -16,9 +16,9 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Communicate With Customers](./sp1.03.1.md)
-  - [Update Tests fo Acceptance Criteria](./sp1.03.2.md)
-  - [Sell a Solution](./sp1.03.3.md)
+  - [Communicate With Customers](./sp1.03.1.html)
+  - [Update Tests fo Acceptance Criteria](./sp1.03.2.html)
+  - [Sell a Solution](./sp1.03.3.html)
 
 </details>
 

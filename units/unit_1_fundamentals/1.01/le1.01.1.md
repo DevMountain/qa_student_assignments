@@ -14,9 +14,9 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Hands on Testing](./sp1.01.1.md)
-  - [Document Review](./sp1.01.2.md)
-  - [Exploratory Testing](./sp1.01.3.md)
+  - [Hands on Testing](./sp1.01.1.html)
+  - [Document Review](./sp1.01.2.html)
+  - [Exploratory Testing](./sp1.01.3.html)
 
 </details>
 

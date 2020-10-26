@@ -16,10 +16,10 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Hold effective discussions in the best place](./sp1.06.1.md)
-  - [Maintain your tests](./sp1.06.2.md)
-  - [Search for answers](./sp1.06.3.md)
-  - [Documenting Decision Rules](./sp1.06.4.md)
+  - [Hold effective discussions in the best place](./sp1.06.1.html)
+  - [Maintain your tests](./sp1.06.2.html)
+  - [Search for answers](./sp1.06.3.html)
+  - [Documenting Decision Rules](./sp1.06.4.html)
 
 </details>
 
@@ -34,7 +34,7 @@ following:
 
 Do your best to follow their built in tutorial to test
 [MIT Todo](https://github.com/DevMountain/qa_todos) from
-[LE 1.04.1](../1.04/le1.04.md).
+[LE 1.04.1](../1.04/le1.04.html).
 
 ## Step 3
 

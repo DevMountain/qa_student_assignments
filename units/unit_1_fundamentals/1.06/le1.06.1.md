@@ -13,10 +13,10 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Hold effective discussions in the best place](./sp1.06.1.md)
-  - [Maintain your tests](./sp1.06.2.md)
-  - [Search for answers](./sp1.06.3.md)
-  - [Documenting Decision Rules](./sp1.06.4.md)
+  - [Hold effective discussions in the best place](./sp1.06.1.html)
+  - [Maintain your tests](./sp1.06.2.html)
+  - [Search for answers](./sp1.06.3.html)
+  - [Documenting Decision Rules](./sp1.06.4.html)
 
 </details>
 

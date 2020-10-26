@@ -31,7 +31,7 @@ Do the same with the application - do you see any other changes?
 
 Take notes of changes to the **existing functionality** as well as any new
 functionality you may have missed in doing
-[Skills Practice 1.05.1](./sp1.05.1.md).
+[Skills Practice 1.05.1](./sp1.05.1.html).
 
 <details> <summary> Solution </summary>
 

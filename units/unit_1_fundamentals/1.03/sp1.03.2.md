@@ -9,8 +9,8 @@ in your application for it to be "acceptable".
 
 - Have the application requirements handy:
   [Employee Manager v1.1 Requirements](https://devmountain-qa.github.io/employee-manager/1.1_README.html).
-- Skim the email from the customer in [Skills Practice 1.03.1](./sp1.03.1.md).
-- You can use your test from [Skills Practice 1.02.2](../1.02/sp1.02.2.md), or
+- Skim the email from the customer in [Skills Practice 1.03.1](./sp1.03.1.html).
+- You can use your test from [Skills Practice 1.02.2](../1.02/sp1.02.2.html), or
   the solution test cases provided there.
 
 ## Step 1
@@ -39,7 +39,7 @@ applied by the product owner).
 ## Step 2
 
 In Jira, find your test case(s) from
-[Skills Practice 1.02.2](../1.02/sp1.02.2.md), or:
+[Skills Practice 1.02.2](../1.02/sp1.02.2.html), or:
 
 - \*Solution\* Swapping Records Mid-Edit
 - \*Solution\* Edit Name

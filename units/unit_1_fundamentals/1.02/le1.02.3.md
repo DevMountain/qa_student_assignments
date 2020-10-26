@@ -13,16 +13,16 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Complete a Test Plan](./sp1.02.1.md)
-  - [Write a Test](./sp1.02.2.md)
-  - [Report a Bug](./sp1.02.3.md)
+  - [Complete a Test Plan](./sp1.02.1.html)
+  - [Write a Test](./sp1.02.2.html)
+  - [Report a Bug](./sp1.02.3.html)
 
 </details>
 
 ## Setup
 
 1. Review your Test Executions created in Jira for
-   [Test Cases (LE 1.02.2)](./le1.02.2.md).
+   [Test Cases (LE 1.02.2)](./le1.02.2.html).
    - Each failed execution will need to be further covered by a bug report.
 2. Create any needed bug reports following the steps listed below.
    - You _may_ have some failed tests that can be covered by one bug report

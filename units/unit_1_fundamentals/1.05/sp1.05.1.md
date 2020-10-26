@@ -11,7 +11,7 @@ Having experience patching holes in your testing "net" is very important.
 ## Setup
 
 - Have your workflow for the prior version of Employee Manager, or you can use
-  the solution mentioned in [Skills Practice 1.04.3](../1.04/sp1.04.3.md).
+  the solution mentioned in [Skills Practice 1.04.3](../1.04/sp1.04.3.html).
 - Open the requirements for
   [Employee Manager v1.2](https://devmountain-qa.github.io/employee-manager/1.2_README.html).
 
@@ -39,7 +39,7 @@ It's time to add tests for any areas completely missing coverage.
   that need exploring. Be sure to take note.
 
 **Note:** Do not worry about updating existing test cases for this practice
-exercise, as that will be covered in [Skills Practice 1.06.2](./sp1.05.2.md).
+exercise, as that will be covered in [Skills Practice 1.06.2](./sp1.05.2.html).
 
 ## Step 3
 

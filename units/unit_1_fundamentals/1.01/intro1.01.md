@@ -8,8 +8,8 @@ Devmountain Labs has several teams in their development department, and you will
 be assigned to a dev team as its primary QA with the support of a Lead QA
 throughout your training.
 
-**[Alex](../../../personas/Alex.md)**, your Lead QA sits down and talks over the
-requirements of your role with you. They have the
+**[Alex](../../../personas/Alex.html)**, your Lead QA sits down and talks over
+the requirements of your role with you. They have the
 [job description](../../../assets/job_descriptions.md "example job descriptions")
 printed out for you to look over, but sums it up pretty simply.
 

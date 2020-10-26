@@ -14,9 +14,9 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Use the Right Criteria](./sp1.04.1.md)
-  - [Streamline Down to Regression Testing](./sp1.04.2.md)
-  - [Leverage State Transition Testing](./sp1.04.3.md)
+  - [Use the Right Criteria](./sp1.04.1.html)
+  - [Streamline Down to Regression Testing](./sp1.04.2.html)
+  - [Leverage State Transition Testing](./sp1.04.3.html)
 
 </details>
 

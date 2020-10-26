@@ -16,21 +16,21 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Hands on Testing](./sp1.01.1.md)
-  - [Document Review](./sp1.01.2.md)
-  - [Exploratory Testing](./sp1.01.3.md)
-  - [Complete a Test Plan](./sp1.02.1.md)
-  - [Write a Test](./sp1.02.2.md)
-  - [Report a Bug](./sp1.02.3.md)
-  - [Communicate With Customers](./sp1.03.1.md)
-  - [Update Tests fo Acceptance Criteria](./sp1.03.2.md)
-  - [Sell a Solution](./sp1.03.3.md)
-  - [Use the Right Criteria](./sp1.04.1.md)
-  - [Streamline Down to Regression Testing](./sp1.04.2.md)
-  - [Leverage State Transition Testing](./sp1.04.3.md)
-  - [Patch Gaps in Coverage](./sp1.05.1.md)
-  - [Add Traceability](./sp1.05.2.md)
-  - [Equivalence Partitioning and Boundary Value Analysis](./sp1.05.3.md)
+  - [Hands on Testing](./sp1.01.1.html)
+  - [Document Review](./sp1.01.2.html)
+  - [Exploratory Testing](./sp1.01.3.html)
+  - [Complete a Test Plan](./sp1.02.1.html)
+  - [Write a Test](./sp1.02.2.html)
+  - [Report a Bug](./sp1.02.3.html)
+  - [Communicate With Customers](./sp1.03.1.html)
+  - [Update Tests fo Acceptance Criteria](./sp1.03.2.html)
+  - [Sell a Solution](./sp1.03.3.html)
+  - [Use the Right Criteria](./sp1.04.1.html)
+  - [Streamline Down to Regression Testing](./sp1.04.2.html)
+  - [Leverage State Transition Testing](./sp1.04.3.html)
+  - [Patch Gaps in Coverage](./sp1.05.1.html)
+  - [Add Traceability](./sp1.05.2.html)
+  - [Equivalence Partitioning and Boundary Value Analysis](./sp1.05.3.html)
 
 </details>
 
