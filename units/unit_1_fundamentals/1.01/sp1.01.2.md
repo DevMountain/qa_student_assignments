@@ -28,9 +28,14 @@ Take notes on the questions you have; and consider these questions as you go:
 
 <details> <summary> Examples of good questions to have... </summary>
 
+{% highlight markdown %}
+
 - Are there any requirements for the fields themselves? Other than the future
   updates to phone number validation or required fields?
 - "Modern Browser" is vague, does it inclue mobile testing?
+
+{% endhighlight %}
+
 </details>
 
 ## **_Good Work!_**

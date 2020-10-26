@@ -9,17 +9,20 @@ the product itself!
 
 <details> <summary> <strong> For Your Review </strong> </summary>
 
+{% highlight markdown %}
+
 If you're feeling uncertain on where to start in this project, look over the
 following:
 
-<br />
+- Skills Practice
+  - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.1.html" target="_blank">Hands
+    on Testing</a>
+  - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.2.html" target="_blank">Document
+    Review</a>
+  - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.3.html" target="_blank">Exploratory
+    Testing</a>
 
-- <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.1.html" target="_blank">Hands
-  on Testing</a> <br />
-- <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.2.html" target="_blank">Document
-  Review</a> <br />
-- <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.3.html" target="_blank">Exploratory
-  Testing</a>
+{% endhighlight %}
 
 </details>
 

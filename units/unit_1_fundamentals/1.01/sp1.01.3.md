@@ -39,6 +39,8 @@ after all, where you want to your exploratory testing to lead:
 
 <details> <summary> Some problems and questions you may run across... </summary>
 
+{% highlight markdown %}
+
 ### Bugs
 
 - ZERO field validation. There should probably be at least some validation not
@@ -56,6 +58,8 @@ Most of your questions should be about formatting and user experience.
   "view only" mode?
 
 Things like that.
+
+{% endhighlight %}
 
 </details>
 

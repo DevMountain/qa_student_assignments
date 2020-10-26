@@ -41,11 +41,21 @@ Consider the following questions:
 
 ## Solution
 
-<details> <summary> Some notes to consider... </summary>
-Though there really isn't a solution to practice like this, some things you probably should consider:
-* As it stands, "Promote Dollie Berry" *technically* passes, but there are problems.
-* "Delete Phillip Weaver" definitely would fail as a test.
-* You may have noticed that the first test was far looser than the second, which leads to both positive and negative consequences.
+<details> <summary> Some notes to consider...</summary>
+
+{% highlight markdown %}
+
+Though there really isn't a solution to practice like this, some things you
+probably should consider:
+
+- As it stands, "Promote Dollie Berry" _technically_ passes, but there are
+  problems.
+- "Delete Phillip Weaver" definitely would fail as a test.
+- You may have noticed that the first test was far looser than the second, which
+  leads to both positive and negative consequences.
+
+{% endhighlight %}
+
 </details>
 
 ## **_Good work!_**
