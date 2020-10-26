@@ -48,7 +48,7 @@ testing easier, more efficient, and less likely to bore you to tears.
 
 ## Solution
 
-<details> <summary> Test Cases </summary>
+<details  markdown="1"> <summary> Test Cases </summary>
 
 See the "solution" test cases in your Devmountain Labs project:
 

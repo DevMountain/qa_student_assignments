@@ -11,7 +11,7 @@ conerned about:
 - Fixing bugs correctly.
 - Making sure that their fixes don't break anything else.
 
-<details> <summary> <strong> For Your Review </strong> </summary>
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:

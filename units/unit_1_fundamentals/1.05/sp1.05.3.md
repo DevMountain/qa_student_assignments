@@ -29,7 +29,7 @@ builds off of it.
 1. Each "partition" should be tested at least once. Create one or more tests to
    cover the partitions you've determined.
 
-<details> <summary> Example partitions for a field... </summary>
+<details  markdown="1"> <summary> Example partitions for a field... </summary>
 
 If we were to consider the name field, we have the following possible outputs,
 and their corresponding inputs:
@@ -50,7 +50,7 @@ two outputs.
 
 </details>
 
-<details> <summary> Example tests for those partitions... </summary>
+<details  markdown="1"> <summary> Example tests for those partitions... </summary>
 
 **Test 1**
 
@@ -90,7 +90,7 @@ forgets or flips > or < signs, or other similar errors occur.
 1. Update your test(s) from **Step 1** to test the boundary values you
    discovered in this exercise.
 
-<details> <summary> Example boundary vals for a field... </summary>
+<details  markdown="1"> <summary> Example boundary vals for a field... </summary>
 
 Considering again the name field... Looking purely at the ranges of the inputs,
 we have the following partiions...
@@ -108,7 +108,7 @@ These would be our bare minimum values to test against this set of partitions.
 
 </details>
 
-<details> <summary> Example tests for those boundary values... </summary>
+<details  markdown="1"> <summary> Example tests for those boundary values... </summary>
 
 **Test 1**
 

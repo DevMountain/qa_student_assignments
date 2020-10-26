@@ -6,7 +6,7 @@
 
 You're done testing; now it's time to summarize your findings.
 
-<details> <summary> <strong> For Your Review </strong> </summary>
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:

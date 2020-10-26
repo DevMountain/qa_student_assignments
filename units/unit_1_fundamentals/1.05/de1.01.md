@@ -10,7 +10,7 @@ means they need you keeping an eye on quality the whole way through.
 By the end of the work day, you are to share a link to your Employee Manager
 testing that you have undertaken thus far.
 
-<details> <summary> <strong> For Your Review </strong> </summary>
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:

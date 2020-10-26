@@ -8,7 +8,7 @@ You have been given access to a simple application, and some developer tasks
 that serve as documentation in Jira. Your project for sub-unit 1.02 will be to
 complete Test Products for it, starting with a Test Plan.
 
-<details> <summary> <strong> For Your Review </strong> </summary>
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:

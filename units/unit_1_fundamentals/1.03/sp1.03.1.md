@@ -48,7 +48,7 @@ With all that under consideration do/answer the following:
 There is no one "right" answer for this email, some might be brief, some might
 be longer, the biggest thing is that your customer knows they were heard.
 
-<details> <summary> Example Response </summary>
+<details  markdown="1"> <summary> Example Response </summary>
 
 > Dear Mr. Payne, I'm grateful to you for writing back so promptly with your
 > concerns. It's our goal to deliver a quality product to you and your team, and

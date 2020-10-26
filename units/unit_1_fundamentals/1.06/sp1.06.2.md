@@ -33,7 +33,7 @@ Take notes of changes to the **existing functionality** as well as any new
 functionality you may have missed in doing
 [Skills Practice 1.05.1](./sp1.05.1.html).
 
-<details> <summary> Solution </summary>
+<details  markdown="1"> <summary> Solution </summary>
 
 Your list might have more/less detail, but should roughly capture: **Documented
 changes (In the requirements)**

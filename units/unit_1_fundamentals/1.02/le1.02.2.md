@@ -7,7 +7,7 @@
 You've roughed out a test plan at this point. Now it's time to create test cases
 to cover the features to be tested. And execute them!
 
-<details> <summary> <strong> For Your Review </strong> </summary>
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:

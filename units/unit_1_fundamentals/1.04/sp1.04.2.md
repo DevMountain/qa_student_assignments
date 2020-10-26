@@ -29,7 +29,7 @@ above.
 
 If you absolutely need to have two, that's fine.
 
-<details> <summary> For example ... </summary>
+<details  markdown="1"> <summary> For example ... </summary>
 
 A decent regression test might read like this:
 

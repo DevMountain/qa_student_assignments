@@ -40,7 +40,7 @@ process.
 
 ## Solution
 
-<details> <summary> Solution Test Plan: </summary>
+<details  markdown="1"> <summary> Solution Test Plan: </summary>
 
 - Find the **Employee Manager Test Plan** in your Devmountain Labs project in
   [Jira](https://dmutah.atlassian.net/)

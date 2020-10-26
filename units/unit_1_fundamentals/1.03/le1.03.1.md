@@ -11,7 +11,7 @@ It should be apparent that the requirements you were given were almost purely
 functional; which makes sense when your requirements are all development tasks.
 It's time to include acceptance criteria, and update your results accordingly.
 
-<details> <summary> <strong> For Your Review </strong> </summary>
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:

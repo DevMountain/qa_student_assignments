@@ -10,7 +10,7 @@ tutorial. We're providing one to you here to try out for the first time.
 Testim is an automation company that hosts a machine learning backed product,
 called "automate", that works kind of like recording a Macro.
 
-<details> <summary> <strong> For Your Review </strong> </summary>
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:

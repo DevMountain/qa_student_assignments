@@ -22,7 +22,7 @@ Remember:
 
 **Example**: ![Embed Example Here](../../../assets/needAsset.png)
 
-<details> <summary> Possible Solution </summary>
+<details  markdown="1"> <summary> Possible Solution </summary>
 
 Your diagram might look different, and that's ok!
 ![Starting state transition diagram for Employee Manager v1.1](../../../assets/needAsset.png)
@@ -44,7 +44,7 @@ For each state/transition:
 - Is that part of the app still under development?
   - Color code it a different way
 
-<details> <summary> Possible Solution </summary>
+<details  markdown="1"> <summary> Possible Solution </summary>
 
 As before, yours might look different, but:
 ![Color coded state transition diagram for Employee Manager v1.1](../../../assets/needsAsset.png)

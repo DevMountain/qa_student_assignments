@@ -25,7 +25,7 @@ Review the change log for version 1.2.
 - Update your diagram, including marking off any areas that do not have
   sufficient test coverage.
 
-<details> <summary> Possible solution... </summary>
+<details  markdown="1"> <summary> Possible solution... </summary>
 
 ![Updated employee manager state transition diagram](../../../assets/needAsset.png)
 

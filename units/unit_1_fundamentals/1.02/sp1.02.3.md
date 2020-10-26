@@ -12,7 +12,7 @@ bugs, and report at least one!
 - You can use your test from Skills Practice 2.2, or the solution test cases
   provided there.
 
-<details> <summary> Solution Test Cases </summary>
+<details  markdown="1"> <summary> Solution Test Cases </summary>
 
 See the "solution" test cases in your Devmountain Labs project:
 

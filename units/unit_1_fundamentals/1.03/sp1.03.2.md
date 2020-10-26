@@ -23,7 +23,7 @@ You can compare your answers with the list of acceptance criteria compiled below
 (these include a few points from the customer email, which may or may not be
 applied by the product owner).
 
-<details> <summary> Acceptance Criteria </summary>
+<details  markdown="1"> <summary> Acceptance Criteria </summary>
 
 - As a user I can view the name, phone number, title, email address, and
   employee ID of employees in the contact manager.
@@ -47,7 +47,7 @@ In Jira, find your test case(s) from
 Review the tests as they currently stand, and your acceptance criteria. Which
 criteria are covered? Which aren't?
 
-<details> <summary> For example... </summary>
+<details  markdown="1"> <summary> For example... </summary>
 
 By our solution tests and example acceptance criteria alone:
 

@@ -7,9 +7,7 @@
 Now that you have loose plan in how to approach your testing, it's time to test
 the product itself!
 
-<details> <summary> <strong> For Your Review </strong> </summary>
-
-{% highlight markdown %}
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:
@@ -21,8 +19,6 @@ following:
     Review</a>
   - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.3.html" target="_blank">Exploratory
     Testing</a>
-
-{% endhighlight %}
 
 </details>
 
@@ -37,9 +33,7 @@ following:
 1. In this document add one more section:
    - **Problems Found**
 
-<details> <summary> Example Doc </summary>
-
-{% highlight markdown %}
+<details  markdown="1"> <summary> Example Doc </summary>
 
 - Questions
 
@@ -56,8 +50,6 @@ following:
 * etc...
 
 - Problems Found
-
-{% endhighlight %}
 
 </details>
 

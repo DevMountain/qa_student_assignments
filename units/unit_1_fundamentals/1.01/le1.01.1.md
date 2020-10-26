@@ -8,9 +8,7 @@ Your assignment is to review the provided requirements and write up a summary of
 how you will undertake testing the product. See the detailed instructions below
 for further information.
 
-<details> <summary> <strong> For Your Review </strong> </summary>
-
-{% highlight markdown %}
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:
@@ -23,8 +21,6 @@ following:
   - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.3.html" target="_blank">Exploratory
     Testing</a>
 
-{% endhighlight %}
-
 </details>
 
 ## Step 1
@@ -34,15 +30,11 @@ following:
    - **Questions**
    - **Testing**
 
-<details> <summary> Example Doc </summary>
-
-{% highlight markdown %}
+<details  markdown="1"> <summary> Example Doc </summary>
 
 - Questions
 
 - Testing
-
-{% endhighlight %}
 
 </details>
 
@@ -57,9 +49,7 @@ Wanted v1.4</a>.
 In you document take notes on any questions that you would need answered to
 fully understand and test the product.
 
-<details> <summary> Example Doc </summary>
-
-{% highlight markdown %}
+<details  markdown="1"> <summary> Example Doc </summary>
 
 - Questions
 
@@ -69,8 +59,6 @@ fully understand and test the product.
 
 - Testing
 
-{% endhighlight %}
-
 </details>
 
 ## Step 4
@@ -78,9 +66,7 @@ fully understand and test the product.
 1. List the major areas of the application.
 1. For each, decribe briefly how you would attempt to test it.
 
-<details> <summary> Example Doc </summary>
-
-{% highlight markdown %}
+<details  markdown="1"> <summary> Example Doc </summary>
 
 - Questions
 
@@ -94,7 +80,7 @@ fully understand and test the product.
   - I would test this area by doing x, y, and then z.
 * (Some other area)
   - This I'd test the same, except a instead of x.
-* etc... {% endhighlight %}
+* etc...
 
 </details>
 

@@ -37,9 +37,7 @@ after all, where you want to your exploratory testing to lead:
 
 ## Solution
 
-<details> <summary> Some problems and questions you may run across... </summary>
-
-{% highlight markdown %} {% endhighlight %}
+<details markdown="1"> <summary> Some problems and questions you may run across... </summary>
 
 ### Bugs
 

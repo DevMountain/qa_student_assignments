@@ -41,7 +41,7 @@ to be resolved, match each with its best option.
 
 Compare your results to the following:
 
-<details> <summary> Solution... </summary>
+<details  markdown="1"> <summary> Solution... </summary>
 
 1. B
    - Planning meetings are all about determining and prioritizing work to be

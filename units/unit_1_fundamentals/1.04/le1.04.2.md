@@ -8,7 +8,7 @@ To test out a different approach to testing a similar application, you'll be
 diagramming states and transitions that you will then use as the basis for
 designing/creating tests.
 
-<details> <summary> <strong> For Your Review </strong> </summary>
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:

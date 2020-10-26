@@ -7,7 +7,7 @@
 You have executed your tests, and presumably found at least a few problems! It's
 time to document them for your developers to fix.
 
-<details> <summary> <strong> For Your Review </strong> </summary>
+<details  markdown="1"> <summary> <strong> For Your Review </strong> </summary>
 
 If you're feeling uncertain on where to start in this project, look over the
 following:

@@ -24,7 +24,7 @@ Where could we go for answers?
 Find what you feel is a good answer to the question above by searchinghe
 internet using the resources above, or another that you have found.
 
-<details> <summary> Potential result... </summary>
+<details  markdown="1"> <summary> Potential result... </summary>
 
 A google search for:
 

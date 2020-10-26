@@ -40,7 +40,7 @@ that your tests in Jira include:
   - A test that checks something your team has yet to develop, specifically
     calling out what feature change will make it a viable test
 
-<details> <summary> For example... </summary>
+<details  markdown="1"> <summary> For example... </summary>
 
 **Based on Test Criteria** The test case
 `\*Solution\* Swapping Records Mid-Edit`is a great example of a detailed test

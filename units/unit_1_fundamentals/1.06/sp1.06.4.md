@@ -23,7 +23,7 @@ on the following statements:
 1. Identify the possible actions/outcomes of the system under test.
 1. Identify the conditions/inputs of the system under test.
 
-<details> <summary> Conditions/Inputs && Actions/Outputs </summary>
+<details  markdown="1"> <summary> Conditions/Inputs && Actions/Outputs </summary>
 
 - Conditions/Inputs
   - System Level Notification Mute
@@ -43,7 +43,7 @@ on the following statements:
    - The other axis will contain the "Rules"
 2. Populate the rows with the items you discovered in Step 1.
 
-<details> <summary> Empty Example Table </summary>
+<details  markdown="1"> <summary> Empty Example Table </summary>
 
 |                       | Rule 1 | Rule 2 | Rule 3 | etc... |
 | --------------------- | ------ | ------ | ------ | ------ |
@@ -56,7 +56,7 @@ on the following statements:
 
 </details>
 
-<details> <summary> Step 2 Solution </summary>
+<details  markdown="1"> <summary> Step 2 Solution </summary>
 
 |                        | Rule 1 | Rule 2 | Rule 3 | etc... |
 | ---------------------- | ------ | ------ | ------ | ------ |
@@ -78,7 +78,7 @@ on the following statements:
     those hours were never defined?
 - You can do this in any order you want to really.
 
-<details> <summary> Step 3 Solution </summary>
+<details  markdown="1"> <summary> Step 3 Solution </summary>
 
 |                        | Rule 1 | Rule 2 | Rule 3 | Rule 4 | Rule 5 | Rule 6 |
 | ---------------------- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -99,7 +99,7 @@ on the following statements:
 - Consider how you would try to break each rule; a tester needs both positive
   and negative tests to be confident in their results!
 
-<details> <summary> Possible Tests </summary>
+<details  markdown="1"> <summary> Possible Tests </summary>
 
 **Test 1**
 
