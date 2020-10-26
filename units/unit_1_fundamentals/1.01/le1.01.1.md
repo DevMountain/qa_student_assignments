@@ -14,6 +14,7 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
+
   - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.1.html" target="_blank">Hands
     on Testing</a>
   - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.2.html" target="_blank">Document
