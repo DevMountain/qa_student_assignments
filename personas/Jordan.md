@@ -1,6 +1,6 @@
 ## Persona - Jordan
 
-<a href="javascript:history.back()">(Back)</a>
+##### <a href="javascript:history.back()">< Back</a>
 
 ### Bio
 
