@@ -10,7 +10,7 @@ throughout your training.
 
 **[Alex](../../../personas/Alex.html)**, your Lead QA sits down and talks over
 the requirements of your role with you. They have the
-[job description](../../../assets/job_descriptions.md "example job descriptions")
+[job description](../../../assets/job_descriptions.html "example job descriptions")
 printed out for you to look over, but sums it up pretty simply.
 
 ### QA Analyst Responsibilities
