@@ -1,7 +1,5 @@
 ## Persona - Alex
 
-##### <a href="javascript:history.back()">< Back</a>
-
 ### Bio
 
 Alex has been working as a QA at Devmountain Labs for the last two years, and as

@@ -8,10 +8,10 @@ Devmountain Labs has several teams in their development department, and you will
 be assigned to a dev team as its primary QA with the support of a Lead QA
 throughout your training.
 
-**[Alex](../../../personas/Alex.html)**, your Lead QA sits down and talks over
-the requirements of your role with you. They have the
-[job description](../../../assets/job_descriptions.html "example job descriptions")
-printed out for you to look over, but sums it up pretty simply.
+**<a href="../../../personas/Alex.html" target="_blank">Alex</a>**, your Lead QA
+sits down and talks over the requirements of your role with you. They have the
+<a href="../../../assets/job_descriptions.html" target="_blank">job
+description</a> printed out for you to look over, but sums it up pretty simply.
 
 ### QA Analyst Responsibilities
 

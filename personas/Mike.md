@@ -1,7 +1,5 @@
 ## Persona - Mike
 
-##### <a href="javascript:history.back()">< Back</a>
-
 ### Bio
 
 Mike loved running his own business for a while, but decided after a couple of

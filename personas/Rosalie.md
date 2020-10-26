@@ -1,7 +1,5 @@
 ## Persona - Rosalie
 
-##### <a href="javascript:history.back()">< Back</a>
-
 ### Bio
 
 Rosalie has been working on this product since it's inception. She has always

@@ -1,7 +1,5 @@
 ## Persona - Jackie
 
-##### <a href="javascript:history.back()">< Back</a>
-
 ### Bio
 
 Jackie has been a developer for the last several years, and quickly proved her

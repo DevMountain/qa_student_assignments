@@ -1,7 +1,5 @@
 ## Persona - Jordan
 
-##### <a href="javascript:history.back()">< Back</a>
-
 ### Bio
 
 Jordan had been part of the organization for a little over a year, though he's
