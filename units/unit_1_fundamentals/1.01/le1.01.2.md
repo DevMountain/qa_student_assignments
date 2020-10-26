@@ -13,17 +13,20 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - <a href="./sp1.01.1.html" target="_blank">Hands on Testing</a>
-  - <a href="./sp1.01.2.html" target="_blank">Document Review</a>
-  - <a href="./sp1.01.3.html" target="_blank">Exploratory Testing</a>
+  - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01sp1.01.1.html" target="_blank">Hands
+    on Testing</a>
+  - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01sp1.01.2.html" target="_blank">Document
+    Review</a>
+  - <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01sp1.01.3.html" target="_blank">Exploratory
+    Testing</a>
 
 </details>
 
 ## Step 1
 
 1. Have the document you created for the exercise
-   <a href="./le1.01.1.html" target="_blank">Plan for Testing (LE 1.01.1)</a>
-   open.
+   <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01le1.01.1.html" target="_blank">Plan
+   for Testing (LE 1.01.1)</a> open.
 1. Open the documentation for
    <a target="_blank" href="https://devmountain-qa.github.io/enter-wanted/1.4_README.html">Enter
    Wanted v1.4</a>.
