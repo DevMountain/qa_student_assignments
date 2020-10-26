@@ -32,22 +32,25 @@ following:
 
 <details> <summary> Example Doc </summary>
 
-```
+{% highlight markdown %}
+
 - Questions
+
 1. How do I...?
 2. Why would a user...?
 3. Where should...?
 
 - Testing
+
 * (Some area)
-    * I would test this area by doing x, y, and then z.
+  - I would test this area by doing x, y, and then z.
 * (Some other area)
-    * This I'd test the same, except a instead of x.
+  - This I'd test the same, except a instead of x.
 * etc...
 
 - Problems Found
 
-```
+{% endhighlight %}
 
 </details>
 
