@@ -26,7 +26,7 @@ following:
 ## Step 1
 
 1. Have the document you created for the exercise
-   <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01le1.01.1.html" target="_blank">Plan
+   <a href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/le1.01.1.html" target="_blank">Plan
    for Testing (LE 1.01.1)</a> open.
 1. Open the documentation for
    <a target="_blank" href="https://devmountain-qa.github.io/enter-wanted/1.4_README.html">Enter
