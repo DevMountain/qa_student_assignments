@@ -14,9 +14,9 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Hands on Testing](./sp1.01.1.html)
-  - [Document Review](./sp1.01.2.html)
-  - [Exploratory Testing](./sp1.01.3.html)
+  - <a href="./sp1.01.1.html" target="_blank">Hands on Testing</a>
+  - <a href="./sp1.01.2.html" target="_blank">Document Review</a>
+  - <a href="./sp1.01.3.html" target="_blank">Exploratory Testing</a>
 
 </details>
 
@@ -41,7 +41,8 @@ following:
 ## Step 2
 
 Review the documentation for
-[Enter Wanted v1.4](https://devmountain-qa.github.io/enter-wanted/1.4_README.html).
+<a href="https://devmountain-qa.github.io/enter-wanted/1.4_README.html" target="_blank">Enter
+Wanted v1.4</a>.
 
 ## Step 3
 

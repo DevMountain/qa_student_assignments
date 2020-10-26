@@ -3,17 +3,21 @@
 ## Skills Practice Summary
 
 With the notes that you have on what should be tested
-([Skills Practice 1.01.2](./sp1.01.2.html)), and a couple of examples of what
-has been tested ([Skills Practice 1.01.1](./sp1.01.1.html)), it's time to do
-some exploratory testing.
+(<a target="_blank" href="./sp1.01.2.html">Skills Practice 1.01.2</a>), and a
+couple of examples of what has been tested
+(<a target="_blank" href="./sp1.01.1.html">Skills Practice 1.01.1</a>), it's
+time to do some exploratory testing.
 
 ## Setup
 
 - Open the
-  [Employee Manager v1.0 Documentation](https://devmountain-qa.github.io/employee-manager/1.0_README.html)
-- Have your notes from [Skills Practice 1.01.2](./sp1.01.2.html) handy
+  <a target="_blank" href="https://devmountain-qa.github.io/employee-manager/1.0_README.html">Employee
+  Manager v1.0 Documentation</a>
+- Have your notes from <a target="_blank" href="./sp1.01.2.html">Skills Practice
+  1.01.2</a> handy
 - Open
-  [Employee Manager v1.0](https://devmountain-qa.github.io/employee-manager/1.0_Version/index.html)
+  <a target="_blank" href="https://devmountain-qa.github.io/employee-manager/1.0_Version/index.html">Employee
+  Manager v1.0</a>
 
 ## Step 1
 

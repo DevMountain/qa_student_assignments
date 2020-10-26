@@ -1,7 +1,5 @@
 # Job Descriptions
 
-##### <a href="javascript:history.back()">< Back</a>
-
 - [QA Analyst @ CyberCoders](<#qa-analyst-(CyberCoders)>)
 - [Contract QA Analyst @ Airtable](<#contract-qa-analyst-(Airtable)>)
 - [QA Analyst @ Kajabi](<#qa-analyst-(kajabi)>)

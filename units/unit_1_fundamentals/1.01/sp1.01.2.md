@@ -11,7 +11,7 @@ effective.
 ## Setup
 
 Open the
-[documentation](https://devmountain-qa.github.io/employee-manager/1.0_README.html).
+<a target="_blank" href="https://devmountain-qa.github.io/employee-manager/1.0_README.html">documentation</a>.
 
 ## Step 1
 

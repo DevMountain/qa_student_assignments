@@ -12,7 +12,7 @@ other:
 
 ## Setup
 
-1. Open [Jira](https://dmutah.atlassian.net)
+1. Open <a target="_blank" href="https://dmutah.atlassian.net">Jira</a>
 1. Navigate to your Devmountain Labs project.
    - i.e. `QAJ Devmountain Labs`.
 1. The tests mentioned will be "Test Case" issues with a "To Do" status in your
