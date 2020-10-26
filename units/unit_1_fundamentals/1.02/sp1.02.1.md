@@ -2,9 +2,8 @@
 
 ## Skills Practice Summary
 
-You have a better idea now what you should be working on, having worked with
-your customers, _and_ you have the fresh work your development team has
-completed.
+You have a better idea now what you should be working on, and you have the fresh
+work your development team has completed.
 
 ## Setup
 

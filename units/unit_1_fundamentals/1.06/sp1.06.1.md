@@ -12,6 +12,8 @@ other team members' time.
 Given the following set of problems or discussions, and possible venues for them
 to be resolved, match each with its best option.
 
+**Problem/Discussion**
+
 1. We have prioritized tasks above their dependencies - like locking edits to
    unauthorized users before having a database to store user credentials.
 2. There is one task that is likely to take more than one iteration by itself to
@@ -26,8 +28,14 @@ to be resolved, match each with its best option.
      when the review is done and there is a new build for testing, etc.
 6. You have a few too many tasks on your plate to test and could use some help.
 
-A. Stand Up B. Planning C. Grooming D. Retrospective E. Pilot Support F. Ad Hoc
-(Stop by their desk)
+**Venue Options**
+
+- A. Stand Up
+- B. Planning
+- C. Grooming
+- D. Retrospective
+- E. Pilot Support
+- F. Ad Hoc (Stop by their desk)
 
 ## Solution
 

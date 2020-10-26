@@ -26,7 +26,7 @@ following:
 ## Step 1
 
 1. Find the project "{your name} Flashcards" in Jira.
-   - Remembmer, the tasks in Jira are serving AS your documentation.
+   - Remember, the tasks in Jira are serving AS your documentation.
 1. Update your test plan and tests for the following list of acceptance
    criteria.
    - Feel free to update the list with accptance criteria you determined

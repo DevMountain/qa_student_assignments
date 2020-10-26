@@ -22,7 +22,7 @@ following:
 
 ## Step 1
 
-1. Find the project "{your name} Flashcards" in Jira.
+1. Find the project "{your key} Flashcards" in Jira.
 1. Look over the tasks that are "Ready for Testing".
    - You don't need access to the test environment right now, so don't worry
      about that.
