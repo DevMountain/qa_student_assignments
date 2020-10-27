@@ -8,9 +8,11 @@ bugs, and report at least one!
 ## Setup
 
 - Have the application open:
-  [Employee Manager v1.1](https://devmountain-qa.github.io/employee-manager/1.1_Version/index.html)
-- You can use your test from Skills Practice 2.2, or the solution test cases
-  provided there.
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.1_Version/index.html">Employee
+  Manager v1.1</a>
+- You can use your test from
+  <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/sp1.02.2.html">Skills
+  Practice 2.2</a>, or the solution test cases provided there.
 
 <details  markdown="1"> <summary> Solution Test Cases </summary>
 

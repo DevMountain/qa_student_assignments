@@ -14,9 +14,12 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Use the Right Criteria](./sp1.04.1.html)
-  - [Streamline Down to Regression Testing](./sp1.04.2.html)
-  - [Leverage State Transition Testing](./sp1.04.3.html)
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.04.1.html">Use
+    the Right Criteria</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.04.2.html">Streamline
+    Down to Regression Testing</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.04.3.html">Leverage
+    State Transition Testing</a>
 
 </details>
 
@@ -26,8 +29,9 @@ following:
    - You'll notice the project is empty. The project is just here as a separate
      home for your test cases.
 1. Click around the application
-   [Recipe Cards](https://devmountain.github.io/qa_recipes/#/) enough to have a
-   rough idea of its states and triggering transitions.
+   <a target="\_blank" href="https://devmountain.github.io/qa_recipes/#/">Recipe
+   Cards</a> enough to have a rough idea of its states and triggering
+   transitions.
 1. Create a State Transition Diagram, and match it with a State Transition
    Table.
    - If you wanted to, try breaking things down into more than one diagram to

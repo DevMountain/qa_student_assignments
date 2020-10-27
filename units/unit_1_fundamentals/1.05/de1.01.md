@@ -16,21 +16,36 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Hands on Testing](./sp1.01.1.html)
-  - [Document Review](./sp1.01.2.html)
-  - [Exploratory Testing](./sp1.01.3.html)
-  - [Complete a Test Plan](./sp1.02.1.html)
-  - [Write a Test](./sp1.02.2.html)
-  - [Report a Bug](./sp1.02.3.html)
-  - [Communicate With Customers](./sp1.03.1.html)
-  - [Update Tests fo Acceptance Criteria](./sp1.03.2.html)
-  - [Sell a Solution](./sp1.03.3.html)
-  - [Use the Right Criteria](./sp1.04.1.html)
-  - [Streamline Down to Regression Testing](./sp1.04.2.html)
-  - [Leverage State Transition Testing](./sp1.04.3.html)
-  - [Patch Gaps in Coverage](./sp1.05.1.html)
-  - [Add Traceability](./sp1.05.2.html)
-  - [Equivalence Partitioning and Boundary Value Analysis](./sp1.05.3.html)
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.1.html">Hands
+    on Testing</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/sp1.01.2.html">Document
+    Review</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.01/sp1.01.3.html">Exploratory
+    Testing</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/sp1.02.1.html">Complete
+    a Test Plan</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/sp1.02.2.html">Write
+    a Test</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/sp1.02.3.html">Report
+    a Bug</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.03/sp1.03.1.html">Communicate
+    With Customers</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.03/sp1.03.2.html">Update
+    Tests fo Acceptance Criteria</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.03/sp1.03.3.html">Sell
+    a Solution</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.04.1.html">Use
+    the Right Criteria</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.04.2.html">Streamline
+    Down to Regression Testing</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.04.3.html">Leverage
+    State Transition Testing</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/sp1.05.1.html">Patch
+    Gaps in Coverage</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/sp1.05.2.html">Add
+    Traceability</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/sp1.05.3.html">Equivalence
+    Partitioning and Boundary Value Analysis</a>
 
 </details>
 
@@ -38,7 +53,8 @@ following:
 
 - Open your "Devmountain Labs" project in Jira.
 - Open the latest requirements for your team's project,
-  [Employee Manager v1.2](https://devmountain-qa.github.io/employee-manager/1.2_README.html)
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.2_README.html">Employee
+  Manager v1.2</a>
 
 ## Acceptance Criteria
 

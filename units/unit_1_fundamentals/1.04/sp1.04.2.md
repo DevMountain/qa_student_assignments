@@ -17,7 +17,8 @@ with the current functionality?
 ## Setup
 
 - Have the application requirements handy:
-  [Employee Manager v1.1 Requirements](https://devmountain-qa.github.io/employee-manager/1.1_README.html).
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.1_README.html">Employee
+  Manager v1.1 Requirements</a>.
 
 * If you have tests for Employee Manager, have them available for review.
 

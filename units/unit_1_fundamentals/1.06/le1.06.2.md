@@ -16,16 +16,21 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Hold effective discussions in the best place](./sp1.06.1.html)
-  - [Maintain your tests](./sp1.06.2.html)
-  - [Search for answers](./sp1.06.3.html)
-  - [Documenting Decision Rules](./sp1.06.4.html)
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.06/sp1.06.1.html">Hold
+    effective discussions in the best place</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.06/sp1.06.2.html">Maintain
+    your tests</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.06/sp1.06.3.html">Search
+    for answers</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.06/sp1.06.4.html">Documenting
+    Decision Rules</a>
 
 </details>
 
 ## Step 1
 
-1. Visit the homepage for [testim.io](https://www.testim.io/)
+1. Visit the homepage for
+   <a target="\_blank" href="https://www.testim.io/">testim.io</a>
 1. Click the "Get Automate Free" button
    - You will need to sign up, though you don't need to verify your email
      address or the information provided.
@@ -33,8 +38,10 @@ following:
 ## Step 2
 
 Do your best to follow their built in tutorial to test
-[MIT Todo](https://github.com/DevMountain/qa_todos) from
-[LE 1.04.1](../1.04/le1.04.html).
+<a target="\_blank" href="https://github.com/DevMountain/qa_todos">MIT Todo</a>
+from
+<a target="\_blank" href=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.06/1.04/le1.04.html">LE
+1.04.1</a>.
 
 ## Step 3
 

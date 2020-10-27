@@ -1,9 +1,10 @@
 ## **DM Labs: Soft Skills**
 
 You get into work to find an email from
-[Rosalie](../../../personas/Rosalie.html), your team’s product owner. It’s time
-to exercise your **Soft Skills**! Your project manager is on board as well, it's
-time for you to build up your credibility with your team:
+<a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/personas/Rosalie.html">Rosalie</a>,
+your team’s product owner. It’s time to exercise your **Soft Skills**! Your
+project manager is on board as well, it's time for you to build up your
+credibility with your team:
 
 - Today you’ll be **Delivering Bad News** to your team.
 
@@ -13,8 +14,8 @@ won't always be perfect, and it’s important to practice **Learning From
 Mistakes**.
 
 Ahead of your meeting, you brainstorm and talk to
-[Alex](../../../personas/Alex.html) about some ideas on how you can clean up
-processes and help your team.
+<a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/personas/Alex.html">Alex</a>
+about some ideas on how you can clean up processes and help your team.
 
 - **Handling Bugs** will be important - several bugs have been reported in the
   past and have since been sitting still.

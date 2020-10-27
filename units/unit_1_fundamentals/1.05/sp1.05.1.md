@@ -11,9 +11,12 @@ Having experience patching holes in your testing "net" is very important.
 ## Setup
 
 - Have your workflow for the prior version of Employee Manager, or you can use
-  the solution mentioned in [Skills Practice 1.04.3](../1.04/sp1.04.3.html).
+  the solution mentioned in
+  <a target="\_blank" href=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/1.04/sp1.04.3.html">Skills
+  Practice 1.04.3</a>.
 - Open the requirements for
-  [Employee Manager v1.2](https://devmountain-qa.github.io/employee-manager/1.2_README.html).
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.2_README.html">Employee
+  Manager v1.2</a>.
 
 ## Step 1
 
@@ -27,7 +30,8 @@ Review the change log for version 1.2.
 
 <details  markdown="1"> <summary> Possible solution... </summary>
 
-![Updated employee manager state transition diagram](../../../assets/needAsset.png)
+![Updated employee manager state transition
+diagram<img src=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/assets/needAsset.png" />
 
 </details>
 
@@ -39,7 +43,9 @@ It's time to add tests for any areas completely missing coverage.
   that need exploring. Be sure to take note.
 
 **Note:** Do not worry about updating existing test cases for this practice
-exercise, as that will be covered in [Skills Practice 1.06.2](./sp1.05.2.html).
+exercise, as that will be covered in
+<a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/sp1.05.2.html">Skills
+Practice 1.05.2</a>.
 
 ## Step 3
 

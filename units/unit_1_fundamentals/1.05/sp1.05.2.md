@@ -26,8 +26,8 @@ Your bug report would do well to be linked to a test that checks it out.
 
 Link them together, marking that your test "Tests" the bug report.
 
-<!-- - See this [tutorial](./linkJiraTutorial) if you need help figuring out how to
-  link Jia issues together. -->
+<!-- - See this <a target="_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/">tutorial</a> if you need help figuring out how to
+  link Jira issues together. -->
 
 This will make life WAY easier for the QA that gets the job to do confirmation
 testing for the bug fix, and easier for the developer who now has an idea how to

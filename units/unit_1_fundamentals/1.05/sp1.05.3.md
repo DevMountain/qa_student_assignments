@@ -13,7 +13,8 @@ dropping random inputs in.
 ## Setup
 
 - Open
-  [Employee Manager v1.2](https://devmountain-qa.github.io/employee-manager/1.2_Version/index.html)
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.2_Version/index.html">Employee
+  Manager v1.2</a>
 - It can be helpful to have your tests for EM v1.2 available.
 
 ## Step 1

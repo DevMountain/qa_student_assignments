@@ -7,10 +7,14 @@ Getting buy in for a solution is TOUGH! So, it's time to practice.
 ## Setup
 
 - Have the application requirements handy:
-  [Employee Manager v1.1 Requirements](https://devmountain-qa.github.io/employee-manager/1.1_README.html).
-- Skim the email from the customer in [Skills Practice 1.03.1](./sp1.03.1.html).
-- If you have updated tests from [Skills Practice 1.03.2](./sp1.03.2.html) have
-  those handy.
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.1_README.html">Employee
+  Manager v1.1 Requirements</a>.
+- Skim the email from the customer in
+  <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.03/sp1.03.1.html">Skills
+  Practice 1.03.1</a>.
+- If you have updated tests from
+  <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.03/sp1.03.2.html">Skills
+  Practice 1.03.2</a> have those handy.
 
 ## Step 1
 

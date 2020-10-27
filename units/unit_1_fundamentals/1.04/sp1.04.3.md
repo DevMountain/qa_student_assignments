@@ -7,7 +7,8 @@ What states are there in Employee Manager that we need to watch?
 ## Setup
 
 - Have the application open:
-  [Employee Manager v1.1](https://devmountain-qa.github.io/employee-manager/1.1_Version/index.html)
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.1_Version/index.html">Employee
+  Manager v1.1</a>
 - Grab your notes from our earlier examples of state transition diagrams.
 
 ## Step 1
@@ -20,12 +21,14 @@ Remember:
 - The boxes are "states"
 - The connecting lines are "transitions"
 
-**Example**: ![Embed Example Here](../../../assets/needAsset.png)
+**Example**: ![Embed Example
+Here<img src=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/assets/needAsset.png" />
 
 <details  markdown="1"> <summary> Possible Solution </summary>
 
-Your diagram might look different, and that's ok!
-![Starting state transition diagram for Employee Manager v1.1](../../../assets/needAsset.png)
+Your diagram might look different, and that's ok! ![Starting state transition
+diagram for Employee Manager
+v1.1<img src=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/assets/needAsset.png" />
 
 </details>
 
@@ -46,8 +49,9 @@ For each state/transition:
 
 <details  markdown="1"> <summary> Possible Solution </summary>
 
-As before, yours might look different, but:
-![Color coded state transition diagram for Employee Manager v1.1](../../../assets/needsAsset.png)
+As before, yours might look different, but: ![Color coded state transition
+diagram for Employee Manager
+v1.1<img src=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/assets/needsAsset.png" />
 
 </details>
 

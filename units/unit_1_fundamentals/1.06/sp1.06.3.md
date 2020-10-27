@@ -33,8 +33,11 @@ A google search for:
 led me to a blog post that comes at it from a different direction but gives a
 good guide:
 
-- [How to Convert Manual Test Cases into Automated Test Cases and Why?](https://testsigma.com/blog/how-to-convert-manual-test-cases-into-automated-test-cases-and-why/)
-  By `testsigma`'s Mohammad Adil
+- <a
+  target="\_blank"
+  href="https://testsigma.com/blog/how-to-convert-manual-test-cases-into-automated-test-cases-and-why/">How
+  to Convert Manual Test Cases into Automated Test Cases and Why?</a> By
+  `testsigma`'s Mohammad Adil
 
 It discusses how to convert manual tests, but part of that talks about wha they
 consider to be the ideal manual test case design to make it easier.
@@ -52,7 +55,8 @@ going tool specific, it's often good to go straight into the documentation for
 that tool.
 
 Find an answer for this question by looking in the
-[official Jira docs](https://support.atlassian.com/jira-software-cloud/resources/).
+<a target="\_blank" href="https://support.atlassian.com/jira-software-cloud/resources/">official
+Jira docs</a>.
 
 A simple search for:
 

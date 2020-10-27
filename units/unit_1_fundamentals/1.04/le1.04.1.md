@@ -17,9 +17,12 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Use the Right Criteria](./sp1.04.1.html)
-  - [Streamline Down to Regression Testing](./sp1.04.2.html)
-  - [Leverage State Transition Testing](./sp1.04.3.html)
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.04.1.html">Use
+    the Right Criteria</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.04.2.html">Streamline
+    Down to Regression Testing</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.04.3.html">Leverage
+    State Transition Testing</a>
 
 </details>
 
@@ -29,7 +32,7 @@ following:
    bugs and a few tasks in the project, to fix a few problems and bring the
    application up to date.
 1. Review these tasks, and spend a few minutes clicking around the application:
-   [Todos](https://devmountain.github.io/qa_todos)
+   <a target="\_blank" href="https://devmountain.github.io/qa_todos">Todos</a>
 
 ## Step 2
 

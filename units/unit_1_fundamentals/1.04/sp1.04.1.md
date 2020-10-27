@@ -23,9 +23,11 @@ testing for ONE CRITERIA at a time is frequently the best practice.
 ## Setup
 
 - Have the application requirements handy:
-  [Employee Manager v1.1 Requirements](https://devmountain-qa.github.io/employee-manager/1.1_README.html).
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.1_README.html">Employee
+  Manager v1.1 Requirements</a>.
 - Review any criteria you identified for
-  [Skills Practice 1.03.2](./sp1.03.2.html)
+  <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/sp1.03.2.html">Skills
+  Practice 1.03.2</a>
 
 ## Step 1
 

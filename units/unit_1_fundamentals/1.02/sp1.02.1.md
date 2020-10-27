@@ -7,10 +7,11 @@ work your development team has completed.
 
 ## Setup
 
-- Open the
-  [Employee Manager v1.1 Docs](https://devmountain-qa.github.io/employee-manager/1.1_README.html)
+- Open the <a target="\_blank"
+  href="https://devmountain-qa.github.io/employee-manager/1.1_README.html"Employee
+  Manager v1.1 Docs</a>
 - Find the **Employee Manager Test Plan** in your Devmountain Labs project in
-  [Jira](https://dmutah.atlassian.net/)
+  <a target="\_blank" href="https://dmutah.atlassian.net/">Jira</a>
   - It has the title **Employee Manager Test Plan**
     - **NOT** titled **\*SOLUTION\* Employee Manager Test Plan**
   - Its issue type is **Test Plan**
@@ -43,7 +44,7 @@ process.
 <details  markdown="1"> <summary> Solution Test Plan: </summary>
 
 - Find the **Employee Manager Test Plan** in your Devmountain Labs project in
-  [Jira](https://dmutah.atlassian.net/)
+  <a target="\_blank" href="https://dmutah.atlassian.net/">Jira</a>
   - It has the title **\*SOLUTION\* Employee Manager Test Plan**
     - **NOT** titled **Employee Manager Test Plan**
   - Its issue type is **Test Plan**

@@ -7,11 +7,13 @@ together some test cases. At least one.
 
 ## Setup
 
-- Have either your completed test plan from Skills Practice 2.1, or the solution
-  test plan, on hand.
+- Have either your completed test plan from
+  <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/sp1.02.1.html">Skills
+  Practice 2.1</a>, or the solution test plan, on hand.
 - Employee Manager v1.1 is available
-  [here](https://devmountain-qa.github.io/employee-manager/1.1_Version/index.html)
-- Be in [Jira](https://dmutah.atlassian.net), in your Devmountain Labs project.
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.1_Version/index.html">here</a>
+- Be in <a target="\_blank" href="https://dmutah.atlassian.net">Jira</a>, in
+  your Devmountain Labs project.
 
 ## Step 1
 

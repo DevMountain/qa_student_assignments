@@ -7,8 +7,9 @@ Surprise! You’ve got a meeting on your calendar, it’s time for you to provid
   know what you’ve been working on.
 
 The customers have run into several problems with the usability of the
-application. The product owner [Rosalie](../../../personas/rosalie.html) on the
-call with you assures them that your team will be working on:
+application. The product owner
+<a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/personas/rosalie.html">Rosalie</a>
+on the call with you assures them that your team will be working on:
 
 - **Non-Functional Testing**, including **Usability Testing**.
 

@@ -12,20 +12,26 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Complete a Test Plan](./sp1.02.1.html)
-  - [Write a Test](./sp1.02.2.html)
-  - [Report a Bug](./sp1.02.3.html)
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/sp1.02.1.html">Complete
+    a Test Plan</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/sp1.02.2.html">Write
+    a Test</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/sp1.02.3.html">Report
+    a Bug</a>
 
 </details>
 
 ## Step 1
 
 - Review what you planned to test in your test plan.
-  - [Test Plan (LE 1.02.1)](./le1.02.1.html)
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/le1.02.1.html">Test
+    Plan (LE 1.02.1)</a>
 - Review what you _did_ test via your test cases.
-  - [Test Cases (LE 1.02.2)](./le1.02.2.html)
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/le1.02.2.html">Test
+    Cases (LE 1.02.2)</a>
 - Look over the problems you found, described in your bug reports.
-  - [Bug Reports (LE 1.02.3)](./le1.02.3.html)
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.02/le1.02.3.html">Bug
+    Reports (LE 1.02.3)</a>
 
 ## Step 2
 

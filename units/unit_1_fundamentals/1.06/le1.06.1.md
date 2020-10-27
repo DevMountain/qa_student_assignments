@@ -13,10 +13,14 @@ If you're feeling uncertain on where to start in this project, look over the
 following:
 
 - Skills Practice:
-  - [Hold effective discussions in the best place](./sp1.06.1.html)
-  - [Maintain your tests](./sp1.06.2.html)
-  - [Search for answers](./sp1.06.3.html)
-  - [Documenting Decision Rules](./sp1.06.4.html)
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.06/sp1.06.1.html">Hold
+    effective discussions in the best place</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.06/sp1.06.2.html">Maintain
+    your tests</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.06/sp1.06.3.html">Search
+    for answers</a>
+  - <a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.06/sp1.06.4.html">Documenting
+    Decision Rules</a>
 
 </details>
 
@@ -55,5 +59,5 @@ Do you find that there are certain ways of using decision rules you prefer? Or
 are there reasons you are not a fan of the design technique?
 
 You can also test the application in question,
-[Home Loan Wizard](https://devmountain.github.io/qa_appHandling) and track your
-testing in the Jira project created for it.
+<a target="\_blank" href="https://devmountain.github.io/qa_appHandling">Home
+Loan Wizard</a> and track your testing in the Jira project created for it.

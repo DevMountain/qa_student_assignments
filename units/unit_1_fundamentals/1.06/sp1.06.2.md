@@ -10,9 +10,11 @@ functionality has changed, and make some decisions about our testing.
 
 - Have your tests for Employee Manager available.
 - Open the requirements for
-  [Employee Manager v1.2](https://devmountain-qa.github.io/employee-manager/1.2_README.html).
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.2_README.html">Employee
+  Manager v1.2</a>.
 - Also open the
-  [Employee Manager v1.2 application](https://devmountain-qa.github.io/employee-manager/1.2_Version/index.html).
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.2_Version/index.html">Employee
+  Manager v1.2 application</a>.
 
 ## Step 1
 
@@ -20,18 +22,20 @@ Review the new requirements once again. What has changed in alreay existing
 functionality?
 
 - If necessary you can open the
-  [v1.1 requirements](https://devmountain-qa.github.io/employee-manager/1.1_README.html)
-  for direct comparison.
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.1_README.html">v1.1
+  requirements</a> for direct comparison.
 
 Do the same with the application - do you see any other changes?
 
 - Having different versions side by side can make it easier to spot changes;
   here is the link for the
-  [v1.1 application](https://devmountain-qa.github.io/employee-manager/1.1_Version/index.html).
+  <a target="\_blank" href="https://devmountain-qa.github.io/employee-manager/1.1_Version/index.html">v1.1
+  application</a>.
 
 Take notes of changes to the **existing functionality** as well as any new
 functionality you may have missed in doing
-[Skills Practice 1.05.1](./sp1.05.1.html).
+<a target="\_blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/sp1.05.1.html">Skills
+Practice 1.05.1</a>.
 
 <details  markdown="1"> <summary> Solution </summary>
 
