@@ -1,11 +1,17 @@
 # Fundamentals Project - Kickoff
 
+#### Target Time Limit: +/- 60 minutes
+
 ### Summary
 
 For this project, you will be undertaking the entire test process, from planning
 your testing to submitting your report. This project is to be executed alone,
 though discussion and peer review are encouraged. The application you are to
-test will be assigned to you.
+test will be assigned to you, and your work will be private to you as well.
+
+Discussion is encouraged, collaboration is even required to a certain degree,
+but all work submitted should be your own. Copied project work will not be
+accepted.
 
 ## Phases
 
@@ -63,9 +69,10 @@ and how the skills you have learned will help you in the job industry.
 
 ### 6. Presentations
 
-Each student will have a few minutes where they are required to share some of
-the highlights of their testing, as well as a few points from their
-self-retrospective.
+Each student will have a few minutes where they are to give an update as if to
+their development team on how testing went, and their overall assessment of the
+product. You should be prepared to both ask questions during other presentations
+and be able to answer your own.
 
 ## Submission
 
