@@ -21,14 +21,18 @@ Remember:
 - The boxes are "states"
 - The connecting lines are "transitions"
 
-**Example**: ![Embed Example
-Here<img src=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/assets/needAsset.png" />
+**Example**:
+<img src="https://devmountain.github.io/qa_student_assignments/assets/stateTransitionExample.png" />
+
+- In this example, a guest or account holder views a special sale where they can
+  wish for sale items, and then share those wishes; but a guest user will need
+  to sign up for an account to share.
 
 <details  markdown="1"> <summary> Possible Solution </summary>
 
-Your diagram might look different, and that's ok! ![Starting state transition
-diagram for Employee Manager
-v1.1<img src=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/assets/needAsset.png" />
+Your diagram might look different, and that's ok!
+
+<img src="https://devmountain.github.io/qa_student_assignments/assets/emStartingST.png" />
 
 </details>
 
@@ -49,9 +53,13 @@ For each state/transition:
 
 <details  markdown="1"> <summary> Possible Solution </summary>
 
-As before, yours might look different, but: ![Color coded state transition
-diagram for Employee Manager
-v1.1<img src=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.04/assets/needsAsset.png" />
+As before, yours might look different, but:
+
+- Red = known bugs
+- Blue = needs coverage
+- Green = good
+
+<img src="https://devmountain.github.io/qa_student_assignments/assets/emColoredST.png" />
 
 </details>
 

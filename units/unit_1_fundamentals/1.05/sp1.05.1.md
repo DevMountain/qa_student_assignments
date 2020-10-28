@@ -30,8 +30,7 @@ Review the change log for version 1.2.
 
 <details  markdown="1"> <summary> Possible solution... </summary>
 
-![Updated employee manager state transition
-diagram<img src=".https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/.https://devmountain.github.io/qa_student_assignments/units/unit_1_fundamentals/1.05/assets/needAsset.png" />
+<img src="https://devmountain.github.io/qa_student_assignments/assets/emAddEmployeeST.png" />
 
 </details>
 
