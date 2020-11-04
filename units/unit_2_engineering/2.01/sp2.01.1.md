@@ -8,8 +8,10 @@ included in this practice assignment.
 ## Setup
 
 - There are a few ways to set up to test this application:
-  1. If you know how to use git/github, clone <a href="" target="\blank">this
+  1. If you know how to use git/github, clone
+     <a href="https://github.com/DevMountain/practiceUnitTesting_qa2.01" target="\blank">this
      repository</a>, and use the `valueTesting.test.ts` test file.
+     - Then install the dependencies by using the command `npm i`.
   1. Use the testing folder you set up following along with the 2.01 examples.
      - You can skip to step 4 in the manual setup below.
   1. Follow the instructions below:
