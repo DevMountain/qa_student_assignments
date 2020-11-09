@@ -58,6 +58,7 @@ describe("testing assertions", () => {
 ```
 
 </details>
+
 </br>
 
 ## Step 1
@@ -160,6 +161,7 @@ describe("testing assertions", () => {
 ```
 
 </details>
+
 </br>
 
 ## Stretch
