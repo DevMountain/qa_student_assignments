@@ -1,4 +1,4 @@
-# Intro 2.02
+# **DM Labs: More Programming**
 
 Another dev from your team messages you to give her a link to your repository so
 she can look over your code. When she realizes you don’t know what she means she

@@ -1,4 +1,4 @@
-# Intro 2.01
+# **DM Labs: Intro to Programming**
 
 Your project manager lets you know that you’ve been able to catch the team up
 for the most part, and way faster than expected. Time to skill up. You will be
