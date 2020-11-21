@@ -1,5 +1,7 @@
 # Tests for Upcoming Development
 
+#### Target Time Limit: +/- 60 minutes
+
 Your organization needs to be able to format dates easily. As such, they have
 asked that you add a new test for TDD to the `qa_tdd` repository.
 
