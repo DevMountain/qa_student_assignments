@@ -15,7 +15,7 @@ Continuing your testing practice, you'll be adding assertions instead of values.
      otherwise follow the instructions below to add it.
 2. Have the [Jest Expect Docs](https://jestjs.io/docs/en/expect) handy.
 
-<details markdow="1"><summary>Manual setup instructions</summary>
+<details markdown="1"><summary>Manual setup instructions</summary>
 
 1. Open the folder created for
    <a target="\blank" href="https://devmountain.github.io/qa_student_assignments/units/unit_2_engineering/2.01/sp2.01.1.html">Finish
@@ -102,7 +102,7 @@ expect(smaller < bigger).toBeTruthy();
 When in doubt try a few different assertions. The solution uses the following
 list of solution:
 
-<details markdow="1"><summary>Possible Assertions</summary>
+<details markdown="1"><summary>Possible Assertions</summary>
 
 - toBeLessThan
 - toBeGreaterThanOrEqual
@@ -120,7 +120,7 @@ Run the test by using the command `npx jest`
 
 - You should see 1 test suite and 3/3 tests passing.
 
-<details markdow="1"><summary><strong>Solution</strong>: <code>assertionTesting.test.ts</code></summary>
+<details markdown="1"><summary><strong>Solution</strong>: <code>assertionTesting.test.ts</code></summary>
 
 ```typescript
 describe("testing assertions", () => {
