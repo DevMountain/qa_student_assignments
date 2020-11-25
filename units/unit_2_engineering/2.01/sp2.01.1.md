@@ -16,7 +16,7 @@ included in this practice assignment.
      - You can skip to step 4 in the manual setup below.
   1. Follow the instructions below:
 
-<details><summary>Manual setup instructions</summary>
+<details markdow="1"><summary>Manual setup instructions</summary>
 
 1. Create a new folder on your computer; you can call it something like
    `practiceUnitTesting`.
@@ -101,7 +101,7 @@ Run the test by using the command `npx jest`
 
 - You should see 1 test suite and 3/3 tests passing.
 
-<details><summary><strong>Solution</strong>: <code>valueTesting.test.ts</code></summary>
+<details markdow="1"><summary><strong>Solution</strong>: <code>valueTesting.test.ts</code></summary>
 
 ```typescript
 describe("value testing", () => {
@@ -144,7 +144,7 @@ function booleanCheck(x) {
 
 - Move all of these values into typed variables!
 
-<details><summary><strong>Solution</strong>: <code>valueTesting.test.ts</code></summary>
+<details markdow="1"><summary><strong>Solution</strong>: <code>valueTesting.test.ts</code></summary>
 
 ```typescript
 describe("value testing", () => {
