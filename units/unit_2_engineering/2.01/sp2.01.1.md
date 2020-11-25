@@ -63,7 +63,7 @@ function booleanCheck(x) {
 
 </details>
 
-</br>
+<br />
 
 ## Step 1
 
@@ -138,7 +138,7 @@ function booleanCheck(x) {
 
 </details>
 
-</br>
+<br />
 
 ## Stretch
 
@@ -196,6 +196,6 @@ function booleanCheck(x) {
 
 </details>
 
-</br>
+<br />
 
 ## **_Good work!_**

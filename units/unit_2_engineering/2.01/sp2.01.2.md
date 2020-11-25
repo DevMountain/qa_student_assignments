@@ -59,7 +59,7 @@ describe("testing assertions", () => {
 
 </details>
 
-</br>
+<br />
 
 ## Step 1
 
@@ -162,7 +162,7 @@ describe("testing assertions", () => {
 
 </details>
 
-</br>
+<br />
 
 ## Stretch
 

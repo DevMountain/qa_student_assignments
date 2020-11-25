@@ -20,7 +20,7 @@ following:
 
 </details>
 
-</br>
+<br />
 
 ## Setup
 
@@ -87,7 +87,7 @@ following:
 
    </details>
 
-   </br>
+   <br />
 
 1. You can check that everything copied in correctly by executing the code with
    the command: `npx jest basicUnitTests`
