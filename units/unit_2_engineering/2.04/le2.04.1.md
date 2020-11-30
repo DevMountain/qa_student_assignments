@@ -42,6 +42,8 @@ understanding of what your teammates are working on.
 
 All bugs are in the same file: `qa_calculator/components/Calculator.js`
 
+![Location Image](../../../assets/findCalculator.png)
+
 ### Bug 1: Broken Formatting
 
 It's not unusual to find one or more typos when a developer is in a hurry. In
