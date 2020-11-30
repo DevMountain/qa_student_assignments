@@ -10,7 +10,7 @@ see if it works!
 ## Setup
 
 You can find the repository here:
-https://github.com/DevMountain/qa_calculator.git
+[https://github.com/DevMountain/qa_calculator.git](https://github.com/DevMountain/qa_calculator.git)
 
 1. Fork the repository to your own GitHub account.
    - You'll use your repo's URL in the next step.

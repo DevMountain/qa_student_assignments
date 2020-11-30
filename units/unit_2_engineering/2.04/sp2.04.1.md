@@ -24,7 +24,9 @@ clone the repo, and checkout the 2.04 branch.
 Whether you follow those steps, or already had the project working, make sure to
 star the "dev server" `npm start`
 
-You should see the app running: ![](../../../assets/counter.gif)
+You should see the app running:
+
+![](../../../assets/counter.gif)
 
 ---
 
@@ -84,6 +86,7 @@ We're going add a style to put the number counter in its own box.
    }
    ```
 1. Save everything. If it works correclty, the page will re-render:
+
    ![](../../../assets/counter2.gif)
 
 ---
@@ -139,6 +142,7 @@ Back in the `App.js` file, we're going to add in a new button to the counter to
    ```
 
 1. When the page re-renders after saving, you'll see something like this:
+
    ![](../../../assets/counter3.gif)
 
 ---
@@ -148,7 +152,7 @@ Back in the `App.js` file, we're going to add in a new button to the counter to
 The solution for this assignment is in the `qa_dom_intro` repo's `2.04-solution`
 branch; feel free to look that over if you get lost!
 
-- https://github.com/DevMountain/qa_dom_intro/tree/2.04-solution
+- [https://github.com/DevMountain/qa_dom_intro/tree/2.04-solution](https://github.com/DevMountain/qa_dom_intro/tree/2.04-solution)
 
 ## Stretch
 
