@@ -3,7 +3,7 @@
 ## Summary
 
 If we run tests and don't let anyone know the results, was running the tests
-worthwhile? REporting is extremely important. It is possible to have automated
+worthwhile? Reporting is extremely important. It is possible to have automated
 tests automatically report their results. In this exercise, however, you'll be
 sketching out a test summary report from some automated tests.
 
