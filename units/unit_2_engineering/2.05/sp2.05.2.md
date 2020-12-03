@@ -52,8 +52,15 @@ and what they think!
 
 So, A, B, C; which is the riskiest, and why?
 
-**A)** ![](../../../assets/commitA.png) &nbsp; **B)**
-![](../../../assets/commitB.png) &nbsp; **C)** ![](../../../assets/commitC.png)
+**A)** ![](../../../assets/commitA.png)
+
+&nbsp;
+
+**B)** ![](../../../assets/commitB.png)
+
+&nbsp;
+
+**C)** ![](../../../assets/commitC.png)
 
 How do you rank these? Why? Consider writing it up, or explaining it to someone;
 whether or not they understand, getting the words out can help.

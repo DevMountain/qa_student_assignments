@@ -8,6 +8,7 @@ sometimes our code will ask for information, and only gets it back later.
 1. Add a new test file in your `qa_playground`; mine is called
    `callback.test.ts`.
 1. Copy this code into it:
+
    ```typescript
    /** gets a number between 1 and 10 for the callback
     * @callback numberHandler is passed the number generated
@@ -16,7 +17,9 @@ sometimes our code will ask for information, and only gets it back later.
      numberHandler(Math.ceil(Math.random() * 10));
    }
    ```
+
    - getNumber will generate a random number between 1 and 10, and then
+
 1. Then add in the test 'boilerplate' (`describe`, `it`, `test`, etc as needed)
 
 ## Defining a callback
