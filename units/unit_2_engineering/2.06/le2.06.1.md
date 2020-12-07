@@ -12,7 +12,7 @@ Your task is to complete a test by supplying the selectors required.
 
 First, you'll want to fork and clone the `qa_todo_test` repo:
 
-- https://github.com/DevMountain/qa_todo_test
+- <a href="https://github.com/DevMountain/qa_todo_test" target="\blank">https://github.com/DevMountain/qa_todo_test</a>
 
 Once forked and cloned, don't forget to install dependencies:
 
