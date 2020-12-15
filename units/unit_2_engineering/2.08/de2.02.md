@@ -45,10 +45,12 @@ code to use Chrome instead.
      `answers.txt`, a text file, that you'll commit along with your code
      changes.
 
-### Note:
+### Notes:
 
-There will be a lot of pre-existing code to leverage, so take a few minutes to
-review what is already there.
+- There will be a lot of pre-existing code to leverage, so take a few minutes to
+  review what is already there.
+- Look over the grading rubric in Canvas if you need further clarification on
+  the requirements.
 
 ---
 
