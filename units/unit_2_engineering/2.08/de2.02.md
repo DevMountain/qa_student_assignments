@@ -13,7 +13,7 @@ request to merge YOUR forked copy of the code into the main repository.
 ## Setup
 
 1. Fork this repository
-   [qa_v2_em_testing](https://github.com/DevMountain/qa_v2_em_testing).
+   <a href="https://github.com/DevMountain/qa_v2_em_testing" target="\_blank">qa_v2_em_testing</a>.
 1. Clone it to your machine.
 1. Install dependencies (`npm i`)
 
