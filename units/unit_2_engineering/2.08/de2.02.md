@@ -75,3 +75,7 @@ located.
 
 The `solution` branch of the `qa_v2_em_testing` repository has potential
 solutions for requirements 1 and 2. Yours do not need to look exactly the same.
+
+- You can also find an example pull request FROM the solution branch to the
+  master branch
+  <a href="https://github.com/DevMountain/qa_v2_em_testing/pull/1" target="\_blank">here</a>.
