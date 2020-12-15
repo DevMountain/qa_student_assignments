@@ -14,7 +14,7 @@ been consumed by another project, so it will be up to you to start **Maintaining
 Automated Testing** for this product, and you’re given a list of things to start
 working on:
 
-- Saving **Screenshots** on failed tests
+- Saving **Screenshots**
 - **Reading/Writing Files** for test data
 - Fixing and **Avoiding False Positives**
 - Submitting a **Pull Request** to merge your changes into the repo’s Master
