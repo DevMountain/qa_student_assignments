@@ -1,5 +1,7 @@
 # Gain Through Inheritance
 
+#### Target Time +/- 30 minutes
+
 ## Summary
 
 Inheritance is a way that we can take an existing class and expand on it, using

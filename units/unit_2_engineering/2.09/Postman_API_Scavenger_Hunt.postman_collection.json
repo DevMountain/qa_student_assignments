@@ -1,0 +1,255 @@
+{
+	"info": {
+		"_postman_id": "2e426701-71b7-4a03-a78a-e62a840406fa",
+		"name": "Postman API Scavenger Hunt",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Marvel",
+			"item": [
+				{
+					"name": "Marvel Event 327",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://gateway.marvel.com/v1/public/events/327?ts=123456789&apikey=0f1b7f910cd6edd72f2342e4acc21f44&hash=b84e2d4eed78b68e4274deebd17c03a0",
+							"protocol": "https",
+							"host": [
+								"gateway",
+								"marvel",
+								"com"
+							],
+							"path": [
+								"v1",
+								"public",
+								"events",
+								"327"
+							],
+							"query": [
+								{
+									"key": "ts",
+									"value": "123456789"
+								},
+								{
+									"key": "apikey",
+									"value": "0f1b7f910cd6edd72f2342e4acc21f44"
+								},
+								{
+									"key": "hash",
+									"value": "b84e2d4eed78b68e4274deebd17c03a0"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Comic title starts with \"New\"",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://gateway.marvel.com/v1/public/comics?ts=123456789&apikey=0f1b7f910cd6edd72f2342e4acc21f44&hash=b84e2d4eed78b68e4274deebd17c03a0&titleStartsWith=New",
+							"protocol": "http",
+							"host": [
+								"gateway",
+								"marvel",
+								"com"
+							],
+							"path": [
+								"v1",
+								"public",
+								"comics"
+							],
+							"query": [
+								{
+									"key": "ts",
+									"value": "123456789"
+								},
+								{
+									"key": "apikey",
+									"value": "0f1b7f910cd6edd72f2342e4acc21f44"
+								},
+								{
+									"key": "hash",
+									"value": "b84e2d4eed78b68e4274deebd17c03a0"
+								},
+								{
+									"key": "titleStartsWith",
+									"value": "New"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Character by name \"Nightcrawler\"",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://gateway.marvel.com/v1/public/characters?ts=123456789&apikey=0f1b7f910cd6edd72f2342e4acc21f44&hash=b84e2d4eed78b68e4274deebd17c03a0&name=Nightcrawler",
+							"protocol": "http",
+							"host": [
+								"gateway",
+								"marvel",
+								"com"
+							],
+							"path": [
+								"v1",
+								"public",
+								"characters"
+							],
+							"query": [
+								{
+									"key": "ts",
+									"value": "123456789"
+								},
+								{
+									"key": "apikey",
+									"value": "0f1b7f910cd6edd72f2342e4acc21f44"
+								},
+								{
+									"key": "hash",
+									"value": "b84e2d4eed78b68e4274deebd17c03a0"
+								},
+								{
+									"key": "name",
+									"value": "Nightcrawler"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Star Wars",
+			"item": [
+				{
+					"name": "2nd Person",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://swapi.devmountain.com/people/2",
+							"protocol": "https",
+							"host": [
+								"swapi",
+								"devmountain",
+								"com"
+							],
+							"path": [
+								"people",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Searching for \"Qui\"",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://swapi.devmountain.com/people/?q=qui",
+							"protocol": "https",
+							"host": [
+								"swapi",
+								"devmountain",
+								"com"
+							],
+							"path": [
+								"people",
+								""
+							],
+							"query": [
+								{
+									"key": "q",
+									"value": "qui"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Vehicle 38 (Qui-Gon's)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://swapi.devmountain.com/vehicles/38",
+							"protocol": "https",
+							"host": [
+								"swapi",
+								"devmountain",
+								"com"
+							],
+							"path": [
+								"vehicles",
+								"38"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Starship 21",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://swapi.devmountain.com/starships/21",
+							"protocol": "https",
+							"host": [
+								"swapi",
+								"devmountain",
+								"com"
+							],
+							"path": [
+								"starships",
+								"21"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Windy Planets",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://swapi.devmountain.com/planets?q=windy",
+							"protocol": "https",
+							"host": [
+								"swapi",
+								"devmountain",
+								"com"
+							],
+							"path": [
+								"planets"
+							],
+							"query": [
+								{
+									"key": "q",
+									"value": "windy"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
