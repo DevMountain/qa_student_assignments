@@ -167,5 +167,5 @@ POST for example) can cause problems.
 
 The collection with tests is available here as well.
 
-- <a href="Employee_Manager_with _tests.postman_collection.json" download>Employee
+- <a href="./Employee_Manager_with _tests.postman_collection.json" download>Employee
   Manager Collection - with tests</a>
