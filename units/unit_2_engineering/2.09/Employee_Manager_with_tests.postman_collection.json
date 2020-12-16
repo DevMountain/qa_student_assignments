@@ -1,0 +1,255 @@
+{
+	"info": {
+		"_postman_id": "0f8d44d7-f2b1-485a-8f53-c553e98fafe3",
+		"name": "Employee Manager With Tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Post Employee",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "06519510-b9c0-4223-9182-ac3ea5ef8319",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"pm.test(\"The newly added employee is present\", function () {",
+							"    var jsonData = pm.response.json();",
+							"    var addedEmployee = jsonData.find(emp=>emp.employee_id==15000)",
+							"    pm.expect(addedEmployee).not.to.equal(undefined)",
+							"    pm.expect(addedEmployee.employee_id).to.equal(15000)",
+							"    pm.expect(addedEmployee.employee_name).to.equal(\"Test Person\")",
+							"    pm.expect(addedEmployee.employee_phone).to.equal(\"1234567890\")",
+							"    pm.expect(addedEmployee.employee_email).to.equal(\"test@devmounta.in\")",
+							"    pm.expect(addedEmployee.employee_title).to.equal(\"Tester\")",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "f7d57aaf-63ec-4904-937a-24cd18d8f1b4",
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"id\":\"15000\",\n\t\"name\":\"Test Person\",\n\t\"phone\":\"1234567890\",\n\t\"email\":\"test@devmounta.in\",\n\t\"title\":\"Tester\"\n}"
+				},
+				"url": {
+					"raw": "https://peaceful-inlet-88854.herokuapp.com/api/employees",
+					"protocol": "https",
+					"host": [
+						"peaceful-inlet-88854",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"employees"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Employees",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "5bfcc413-5ea4-4e52-8159-5c3ae1e1c2cb",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"pm.test(\"There are employees in the return\", function(){",
+							"    let res = pm.response.json()",
+							"    pm.expect(res.length).to.be.greaterThan(0)",
+							"    let employee = res[0]",
+							"    pm.expect(employee.employee_id).to.be.greaterThan(0)",
+							"    pm.expect(employee.employee_name).not.to.equal(undefined)",
+							"    pm.expect(employee.employee_phone).not.to.equal(undefined)",
+							"    pm.expect(employee.employee_email).not.to.equal(undefined)",
+							"    pm.expect(employee.employee_title).not.to.equal(undefined)",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://peaceful-inlet-88854.herokuapp.com/api/employees",
+					"protocol": "https",
+					"host": [
+						"peaceful-inlet-88854",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"employees"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Put Employee",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "87385f21-c0d4-4c67-b1d0-c886efa07e18",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"pm.test(\"The newly added employee is present\", function () {",
+							"    var jsonData = pm.response.json();",
+							"    var addedEmployee = jsonData.find(emp=>emp.employee_id==15000)",
+							"    pm.expect(addedEmployee).not.to.equal(undefined)",
+							"    pm.expect(addedEmployee.employee_id).to.equal(15000)",
+							"    pm.expect(addedEmployee.employee_name).to.equal(\"Other\")",
+							"    pm.expect(addedEmployee.employee_phone).to.equal(\"9876543210\")",
+							"    pm.expect(addedEmployee.employee_email).to.equal(\"delete@me.gone\")",
+							"    pm.expect(addedEmployee.employee_title).to.equal(\"About to be deleted\")",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://peaceful-inlet-88854.herokuapp.com/api/employees/:employeeID?name=Other&phone=9876543210&title=About to be deleted&email=delete@me.gone",
+					"protocol": "https",
+					"host": [
+						"peaceful-inlet-88854",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"employees",
+						":employeeID"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Other"
+						},
+						{
+							"key": "phone",
+							"value": "9876543210"
+						},
+						{
+							"key": "title",
+							"value": "About to be deleted"
+						},
+						{
+							"key": "email",
+							"value": "delete@me.gone"
+						}
+					],
+					"variable": [
+						{
+							"key": "employeeID",
+							"value": "15000"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Employee",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "58d394af-e8bb-498f-a4cd-262974032a25",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"pm.test(\"There are employees in the return\", function(){",
+							"    let res = pm.response.json()",
+							"    pm.expect(res.length).to.be.greaterThan(0)",
+							"    let employee = res[0]",
+							"    pm.expect(employee.employee_id).to.be.greaterThan(0)",
+							"    pm.expect(employee.employee_name).not.to.equal(undefined)",
+							"    pm.expect(employee.employee_phone).not.to.equal(undefined)",
+							"    pm.expect(employee.employee_email).not.to.equal(undefined)",
+							"    pm.expect(employee.employee_title).not.to.equal(undefined)",
+							"})",
+							"",
+							"pm.test(\"The deleted employee is not present\", ()=>{",
+							"    let res = pm.response.json()",
+							"    let employee = res.find(em=>em.employee_id == 15000)",
+							"    console.log(employee)",
+							"    pm.expect(employee).to.equal(undefined)",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://peaceful-inlet-88854.herokuapp.com/api/employees/15000",
+					"protocol": "https",
+					"host": [
+						"peaceful-inlet-88854",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"employees",
+						"15000"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

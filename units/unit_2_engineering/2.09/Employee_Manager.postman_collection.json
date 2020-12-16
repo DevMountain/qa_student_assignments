@@ -1,0 +1,186 @@
+{
+	"info": {
+		"_postman_id": "a49e2655-9db2-456a-99e9-8797d82df249",
+		"name": "Employee Manager",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Post Employee",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "3541da70-4765-4f47-aacc-96f1dabb0408",
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"id\":\"15000\",\n\t\"name\":\"Test Person\",\n\t\"phone\":\"1234567890\",\n\t\"email\":\"test@devmounta.in\",\n\t\"title\":\"Tester\"\n}"
+				},
+				"url": {
+					"raw": "https://peaceful-inlet-88854.herokuapp.com/api/employees",
+					"protocol": "https",
+					"host": [
+						"peaceful-inlet-88854",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"employees"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Employees",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "50327e59-084f-4b1a-ae7b-1cbb672d66d2",
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://peaceful-inlet-88854.herokuapp.com/api/employees",
+					"protocol": "https",
+					"host": [
+						"peaceful-inlet-88854",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"employees"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Put Employee",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "1f464bbb-e162-4a34-adae-431fdef57cae",
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://peaceful-inlet-88854.herokuapp.com/api/employees/:employeeID?name=Other&phone=9876543210&title=About to be deleted&email=delete@me.gone",
+					"protocol": "https",
+					"host": [
+						"peaceful-inlet-88854",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"employees",
+						":employeeID"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Other"
+						},
+						{
+							"key": "phone",
+							"value": "9876543210"
+						},
+						{
+							"key": "title",
+							"value": "About to be deleted"
+						},
+						{
+							"key": "email",
+							"value": "delete@me.gone"
+						}
+					],
+					"variable": [
+						{
+							"key": "employeeID",
+							"value": "15000"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Employee",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "084cecbd-feff-4bd7-b5df-fb17bb7faef9",
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://peaceful-inlet-88854.herokuapp.com/api/employees/15000",
+					"protocol": "https",
+					"host": [
+						"peaceful-inlet-88854",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"employees",
+						"15000"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
