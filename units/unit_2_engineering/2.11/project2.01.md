@@ -6,20 +6,17 @@
 
 ## Table of Contents
 
-- [Group Capstone - Kickoff](#group-capstone---kickoff) -
-  [Target Time Limit: +/- 60 minutes](#target-time-limit---60-minutes)
-  - [Table of Contents](#table-of-contents)
-  - [Summary](#summary)
-  - [Phases](#phases)
-    - [1. Preliminary Planning](#1-preliminary-planning)
-    - [2. Plan Review](#2-plan-review)
-    - [3. Setup](#3-setup)
-    - [4. Iterations](#4-iterations)
-    - [5. Polish](#5-polish)
-    - [6. Retrospective](#6-retrospective)
-    - [7. Presentations](#7-presentations)
-  - [Submission](#submission)
-  - [Rubric](#rubric)
+- [Summary](#summary)
+- [Phases](#phases)
+  - [1. Preliminary Planning](#1-preliminary-planning)
+  - [2. Plan Review](#2-plan-review)
+  - [3. Setup](#3-setup)
+  - [4. Iterations](#4-iterations)
+  - [5. Polish](#5-polish)
+  - [6. Retrospective](#6-retrospective)
+  - [7. Presentations](#7-presentations)
+- [Submission](#submission)
+- [Rubric](#rubric)
 
 ---
 
