@@ -10,14 +10,12 @@
 <tr>
 <td markdown="1">
 
-- [Group Capstone - Preliminary Planning](#group-capstone---preliminary-planning) -
-  [Target Time Limit: +/- 120 minutes](#target-time-limit---120-minutes)
-  - [Summary](#summary)
-  - [Choosing a Web Application](#choosing-a-web-application)
-    - [Verify with Instruction Team](#verify-with-instruction-team)
-  - [Draft Your Test Plan](#draft-your-test-plan)
-  - [Outline a To Do List](#outline-a-to-do-list)
-  - [Up Next](#up-next)
+- [Summary](#summary)
+- [Choosing a Web Application](#choosing-a-web-application)
+  - [Verify with Instruction Team](#verify-with-instruction-team)
+- [Draft Your Test Plan](#draft-your-test-plan)
+- [Outline a To Do List](#outline-a-to-do-list)
+- [Up Next](#up-next)
 
 </td>
 <td markdown="1">
