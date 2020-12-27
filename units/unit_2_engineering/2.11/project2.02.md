@@ -2,12 +2,11 @@
 
 #### Target Time Limit: +/- 120 minutes
 
-<br />
-
 <table>
 <tr>
 <th> Table of Contents </th>
 <th> Prior Content </th>
+</tr>
 <tr>
 <td markdown="1">
 
