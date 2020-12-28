@@ -10,17 +10,19 @@
 <tr>
 <td markdown="1">
 
-- [Summary](#summary)
-- [1. Check for Updates](#1-check-for-updates)
-- [2. Start a Task](#2-start-a-task)
-- [3. Create a New Branch](#3-create-a-new-branch)
-- [4. Code Your Changes](#4-code-your-changes)
-- [5. Commit](#5-commit)
-- [6. Check For Updates: Merge & Commit if needed](#6-check-for-updates-merge--commit-if-needed)
-- [7. Push and Create a Pull Request](#7-push-and-create-a-pull-request)
-- [8. Have Your Change Reviewed](#8-have-your-change-reviewed)
-- [Iterate!](#iterate)
-- [Up Next](#up-next)
+- [Group Capstone - First Iteration](#group-capstone---first-iteration) -
+  [Target Time Limit: +/- 60 minutes](#target-time-limit---60-minutes)
+  - [Summary](#summary)
+  - [1. Check for Updates](#1-check-for-updates)
+  - [2. Start a Task](#2-start-a-task)
+  - [3. Create a New Branch](#3-create-a-new-branch)
+  - [4. Code Your Changes](#4-code-your-changes)
+  - [5. Commit](#5-commit)
+  - [6. Check For Updates: Merge & Commit if needed](#6-check-for-updates-merge--commit-if-needed)
+  - [7. Push and Create a Pull Request](#7-push-and-create-a-pull-request)
+  - [8. Have Your Change Reviewed](#8-have-your-change-reviewed)
+  - [Iterate!](#iterate)
+  - [Up Next](#up-next)
 
 </td>
 <td markdown="1">
@@ -187,6 +189,7 @@ request.
    - GitHub has an easy tutorial on using this functionality
      [here](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review).
      - `https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review`
+1. Move your task to "In Review/Ready for Testing".
 
 ---
 
@@ -200,7 +203,7 @@ This is an important phase; you will probably be asked to do code reviews too.
    - If changes are needed:
      1. Make the changes to the branch your pull request was created for.
      1. Commit and push them back up.
-1. Once approved, merge your pull request!
+1. Once approved, merge your pull request, and move your Jira task to "Done"!
 
 Make sure that any of your teammates that might need your changes know, but
 otherwise, your code is now in `master`!
