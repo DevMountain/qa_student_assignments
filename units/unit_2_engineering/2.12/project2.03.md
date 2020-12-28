@@ -15,6 +15,7 @@
   - [Breaking Down Tasks](#breaking-down-tasks)
   - [Prioritization](#prioritization)
 - [Assign Tasks](#assign-tasks)
+- [Submission](#submission)
 - [Up Next](#up-next)
 
 </td>
@@ -133,6 +134,13 @@ accountability.
 It's advisable not to go too far ahead in assigning tasks, just what you think
 you'll be able to do in your first iteration on the project; that way if anyone
 is done early OR stuck on something, there's more work to pick up.
+
+---
+
+## Submission
+
+Using Canvas, submit a link to your Jira Board so that we can check your
+progress/prioritization.
 
 ---
 

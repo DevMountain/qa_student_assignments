@@ -15,6 +15,7 @@
   - [Verify with Instruction Team](#verify-with-instruction-team)
 - [Draft Your Test Plan](#draft-your-test-plan)
 - [Outline a To Do List](#outline-a-to-do-list)
+- [Submission](#submission)
 - [Up Next](#up-next)
 
 </td>
@@ -99,6 +100,12 @@ Right now you shouldn't worry about being too accurate/granular; we're after big
 picture items. If you can easily identify when an item should be broken into
 smaller tasks, feel free, but focus more on getting all the tasks created vs
 grooming them perfectly.
+
+---
+
+## Submission
+
+Using Canvas, submit a link to your Jira Board for our initial review.
 
 ---
 

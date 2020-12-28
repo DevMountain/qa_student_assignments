@@ -16,6 +16,7 @@
   - [2. Set Up Project Framework](#2-set-up-project-framework)
   - [3. Set up for collaboration](#3-set-up-for-collaboration)
   - [4. Check Setup](#4-check-setup)
+- [Submission](#submission)
 - [Next Up](#next-up)
 
 </td>
@@ -186,6 +187,12 @@ repository as well.
 
 Have all students clone down the repository and make sure that all the files are
 present, and everything looks great!
+
+---
+
+## Submission
+
+Using Canvas, submit a link to your GitHub repository.
 
 ---
 

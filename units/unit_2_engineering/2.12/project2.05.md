@@ -10,19 +10,18 @@
 <tr>
 <td markdown="1">
 
-- [Group Capstone - First Iteration](#group-capstone---first-iteration) -
-  [Target Time Limit: +/- 60 minutes](#target-time-limit---60-minutes)
-  - [Summary](#summary)
-  - [1. Check for Updates](#1-check-for-updates)
-  - [2. Start a Task](#2-start-a-task)
-  - [3. Create a New Branch](#3-create-a-new-branch)
-  - [4. Code Your Changes](#4-code-your-changes)
-  - [5. Commit](#5-commit)
-  - [6. Check For Updates: Merge & Commit if needed](#6-check-for-updates-merge--commit-if-needed)
-  - [7. Push and Create a Pull Request](#7-push-and-create-a-pull-request)
-  - [8. Have Your Change Reviewed](#8-have-your-change-reviewed)
-  - [Iterate!](#iterate)
-  - [Up Next](#up-next)
+- [Summary](#summary)
+- [1. Check for Updates](#1-check-for-updates)
+- [2. Start a Task](#2-start-a-task)
+- [3. Create a New Branch](#3-create-a-new-branch)
+- [4. Code Your Changes](#4-code-your-changes)
+- [5. Commit](#5-commit)
+- [6. Check For Updates: Merge & Commit if needed](#6-check-for-updates-merge--commit-if-needed)
+- [7. Push and Create a Pull Request](#7-push-and-create-a-pull-request)
+- [8. Have Your Change Reviewed](#8-have-your-change-reviewed)
+- [Iterate!](#iterate)
+- [Submission](#submission)
+- [Up Next](#up-next)
 
 </td>
 <td markdown="1">
@@ -219,6 +218,12 @@ You'll be going through this process repeatedly. During/between tasks you can
 
 When you know where your focus is needed, pick up your next task and start this
 process over!
+
+---
+
+## Submission
+
+Using Canvas, submit a link to at least one of your pull requests.
 
 ---
 
