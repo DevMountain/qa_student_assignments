@@ -1,7 +1,5 @@
 # Group Capstone - First Iteration
 
-#### Target Time Limit: +/- 60 minutes
-
 <table>
 <tr>
 <th> Table of Contents </th>
