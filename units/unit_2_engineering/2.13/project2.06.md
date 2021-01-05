@@ -17,11 +17,11 @@
 </td>
 <td markdown="1">
 
-- <a href="../2.11/project2.01.html">Kickoff</a>
-- <a href="../2.11/project2.02.html">Preliminary Plannng</a>
-- <a href="../2.12/project2.03.html">Plan Review</a>
-- <a href="../2.12/project2.04.html">Setup</a>
-- <a href="../2.12/project2.05.html">First Iteration</a>
+- <a target="\_blank" href="../2.11/project2.01.html">Kickoff</a>
+- <a target="\_blank" href="../2.11/project2.02.html">Preliminary Plannng</a>
+- <a target="\_blank" href="../2.12/project2.03.html">Plan Review</a>
+- <a target="\_blank" href="../2.12/project2.04.html">Setup</a>
+- <a target="\_blank" href="../2.12/project2.05.html">First Iteration</a>
 
 </td>
 </tr>

@@ -1,4 +1,4 @@
-# Solo Capstone - Preliminary Planning
+# Solo Capstone - Planning
 
 #### Target Time Limit: +/- 60 minutes
 
@@ -10,21 +10,19 @@
 <tr>
 <td markdown="1">
 
-- [Solo Capstone - Preliminary Planning](#solo-capstone---preliminary-planning) -
-  [Target Time Limit: +/- 60 minutes](#target-time-limit---60-minutes)
-  - [Summary](#summary)
-  - [Choosing a Web Application](#choosing-a-web-application)
-    - [Verify with Instruction Team](#verify-with-instruction-team)
-  - [Draft Your Test Plan](#draft-your-test-plan)
-  - [Outline a To Do List](#outline-a-to-do-list)
-  - [Grooming](#grooming)
-  - [Submission](#submission)
-  - [Up Next](#up-next)
+- [Summary](#summary)
+- [Choosing a Web Application](#choosing-a-web-application)
+  - [Verify with Instruction Team](#verify-with-instruction-team)
+- [Draft Your Test Plan](#draft-your-test-plan)
+- [Outline a To Do List](#outline-a-to-do-list)
+- [Grooming](#grooming)
+- [Submission](#submission)
+- [Up Next](#up-next)
 
 </td>
 <td markdown="1">
 
-- <a href="./project3.01.html">Kickoff</a>
+- <a target="\_blank" href="./project3.01.html">Kickoff</a>
 
 </td>
 </tr>

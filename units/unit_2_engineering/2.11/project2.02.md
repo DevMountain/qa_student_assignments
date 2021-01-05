@@ -21,7 +21,7 @@
 </td>
 <td markdown="1">
 
-- <a href="./project2.01.html">Kickoff</a>
+- <a target="\_blank" href="./project2.01.html">Kickoff</a>
 
 </td>
 </tr>

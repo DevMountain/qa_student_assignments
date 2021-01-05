@@ -6,19 +6,18 @@
 
 ## Table of Contents
 
-- [Solo Capstone - Kickoff](#solo-capstone---kickoff) -
-  [Target Time Limit: +/- 60 minutes](#target-time-limit---60-minutes)
-  - [Table of Contents](#table-of-contents)
-  - [Summary](#summary)
-  - [Phases](#phases)
-    - [1. Planning](#1-planning)
-    - [2. Setup](#2-setup)
-    - [4. Iterations](#4-iterations)
-    - [5. Polish](#5-polish)
-    - [6. Retrospective](#6-retrospective)
-    - [7. Presentations](#7-presentations)
-  - [Submission](#submission)
-  - [Rubric](#rubric)
+- [Summary](#summary)
+- [Phases](#phases)
+  - [1. Planning](#1-planning)
+  - [2. Setup](#2-setup)
+  - [3. Iterations](#3-iterations)
+  - [4. Reviews](#4-reviews)
+  - [5. Rework & Polish](#5-rework--polish)
+  - [6. Self-Retrospective](#6-self-retrospective)
+  - [7. Presentation Preparation](#7-presentation-preparation)
+  - [8. Presentations](#8-presentations)
+- [Submission](#submission)
+- [Rubric](#rubric)
 
 ---
 
@@ -101,20 +100,5 @@ but both Jira and GitHub will allow us to see your contributions to the project.
 ## Rubric
 
 You will need to hit an average of "Meets Expectations" across the categories
-listed below. However, each category must have been at least attempted. Detailed
-expectations for each requirement will be provided in upcoming documents.
-
-> **Note:** The grading on this assignment will include technical evaluation,
-> but will be far more weighted to reward effective processes and collaboration.
-
-| Category             | Requirement        | Summary                                                                                                                                                            |
-| -------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| QA Fundamentals      | Test Plan          | You must have submitted a good test plan, with thorough expectations set for what your automation will include, and your stretch goals.                            |
-| QA Fundamentals      | Testing            | The tests you have automated should make sense and be effective tests in and of themselves.                                                                        |
-| QA Fundamentals      | Soft Skills        | You must show effective soft skills in your documentation: test plan, comments, test names, etc. All need to help make clearer what you are working to accomplish. |
-| Programming          | Collaboration      | You need to show effective use of source management tools, even if you are working solo. You also need to have clear comments included in your code.               |
-| Programming          | Abstraction        | You must effectively leverage abstraction for functionality and shared data using things like Page Objects and data files.                                         |
-| Effective Automation | Reliable Execution | Your automation should execute correctly on most computers/internet connections.                                                                                   |
-| Effective Automation | Reliable Results   | Your tests should use assertions well (checking the "right" things) and should not produce false positives.                                                        |
-| Effective Automation | Reliable Iteration | There need to be multiple examples of iteration in your automated testing; executing the same steps with different data should still provide accurate results.     |
-| Other Tools          | API Testing        | Wherever possible, you should attempt to hit an application's API directly, reproducing calls you've found in the Network tab in Postman.                          |
+listed below in the Canvas Rubric. However, each category must have been at
+least attempted.

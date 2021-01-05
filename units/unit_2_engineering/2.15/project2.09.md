@@ -8,28 +8,27 @@
 <tr>
 <td markdown="1">
 
-- [Group Capstone - Retrospective](#group-capstone---retrospective)
-  - [Summary](#summary)
-  - [Step 1 - Test Summary Report](#step-1---test-summary-report)
-  - [Step 2 - What Went Well](#step-2---what-went-well)
-  - [Step 3 - What Would We Change](#step-3---what-would-we-change)
-  - [Step 3 - Testing Outcomes](#step-3---testing-outcomes)
-  - [Step 4 - `README.md` Lessons Learned](#step-4---readmemd-lessons-learned)
-  - [Step 5 - Presentation Prep](#step-5---presentation-prep)
-  - [Submission](#submission)
+- [Summary](#summary)
+- [Step 1 - Test Summary Report](#step-1---test-summary-report)
+- [Step 2 - What Went Well](#step-2---what-went-well)
+- [Step 3 - What Would We Change](#step-3---what-would-we-change)
+- [Step 3 - Testing Outcomes](#step-3---testing-outcomes)
+- [Step 4 - `README.md` Lessons Learned](#step-4---readmemd-lessons-learned)
+- [Step 5 - Presentation Prep](#step-5---presentation-prep)
+- [Submission](#submission)
 - [Great work!](#great-work)
 
 </td>
 <td markdown="1">
 
-- <a href="../2.11/project2.01.html">Kickoff</a>
-- <a href="../2.11/project2.02.html">Preliminary Plannng</a>
-- <a href="../2.12/project2.03.html">Plan Review</a>
-- <a href="../2.12/project2.04.html">Setup</a>
-- <a href="../2.12/project2.05.html">First Iteration</a>
-- <a href="../2.13/project2.06.html">Second Iteration</a>
-- <a href="../2.14/project2.07.html">Third Iteration</a>
-- <a href="../2.15/project2.08.html">Polish</a>
+- <a target="\_blank" href="../2.11/project2.01.html">Kickoff</a>
+- <a target="\_blank" href="../2.11/project2.02.html">Preliminary Plannng</a>
+- <a target="\_blank" href="../2.12/project2.03.html">Plan Review</a>
+- <a target="\_blank" href="../2.12/project2.04.html">Setup</a>
+- <a target="\_blank" href="../2.12/project2.05.html">First Iteration</a>
+- <a target="\_blank" href="../2.13/project2.06.html">Second Iteration</a>
+- <a target="\_blank" href="../2.14/project2.07.html">Third Iteration</a>
+- <a target="\_blank" href="../2.15/project2.08.html">Polish</a>
 
 </td>
 </tr>

@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Summary](#summary)
 - [Phases](#phases)
   - [1. Preliminary Planning](#1-preliminary-planning)
@@ -109,20 +110,8 @@ project.
 ## Rubric
 
 You will need to hit an average of "Meets Expectations" across the categories
-listed below. However, each category must have been at least attempted. Detailed
-expectations for each requirement will be provided in upcoming documents.
+listed below in the Canvas rubric. However, each category must have been at
+least attempted.
 
-> **Note:** The grading on this assignment will include technical evaluation,
+> **Note:** Our grading on this assignment will include technical evaluation,
 > but will be far more weighted to reward effective processes and collaboration.
-
-| Category             | Requirement        | Summary                                                                                                                                                                                          |
-| -------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| QA Fundamentals      | Test Plan          | You must have submitted a good test plan, with thorough expectations set for what your automation will include, and your stretch goals.                                                          |
-| QA Fundamentals      | Testing            | The tests you have automated should make sense and be effective tests in and of themselves.                                                                                                      |
-| QA Fundamentals      | Soft Skills        | You must collaborate well with your teammates - good discussion, effective followthrough on your commitments, etc.                                                                               |
-| Programming          | Collaboration      | Your group must work together on the same GitHub repository, effectively managing branches and pull requests to maintain clean code. You also need to have clear comments included in your code. |
-| Programming          | Abstraction        | You must effectively leverage abstraction for functionality and shared data using things like Page Objects and data files.                                                                       |
-| Effective Automation | Reliable Execution | Your automation should execute correctly on most computers/internet connections.                                                                                                                 |
-| Effective Automation | Reliable Results   | Your tests should use assertions well (checking the "right" things) and should not produce false positives.                                                                                      |
-| Effective Automation | Reliable Iteration | There need to be multiple examples of iteration in your automated testing; executing the same steps with different data should still provide accurate results.                                   |
-| Other Tools          | API Testing        | Wherever possible, you should attempt to hit an application's API directly, reproducing calls you've found in the Network tab in Postman.                                                        |
