@@ -1,4 +1,4 @@
-# Solo Capstone - Presentation Preparation
+# Group Capstone - Presentation Preparation
 
 <table>
 <tr>
@@ -16,9 +16,10 @@
   - [4. Biggest Challenge(s) Overcome](#4-biggest-challenges-overcome)
   - [5. Q&A](#5-qa)
 - [Format Requirements](#format-requirements)
-  - [1. Slide Deck](#1-slide-deck)
-  - [2. Automation Execution](#2-automation-execution)
-  - [3. Content Sharing](#3-content-sharing)
+  - [1. Individual Contribution](#1-individual-contribution)
+  - [2. Slide Deck](#2-slide-deck)
+  - [3. Automation Execution](#3-automation-execution)
+  - [4. Content Sharing](#4-content-sharing)
 - [Giving the Presentation](#giving-the-presentation)
   - [In Person Delivery](#in-person-delivery)
   - [Remote Delivery](#remote-delivery)
@@ -28,17 +29,15 @@
 </td>
 <td markdown="1">
 
-- <a target="\_blank" href="../2.15/project3.01.html">Kickoff</a>
-- <a target="\_blank" href="../2.15/project3.02.html">Planning</a>
-- <a target="\_blank" href="../2.15/project3.03.html">First Iteration</a>
-- <a target="\_blank" href="../2.16/project3.04.html">Group Reviews</a>
-- <a target="\_blank" href="../2.16/project3.05.html">Second Iteration</a>
-- <a target="\_blank" href="../2.17/project3.06.html">Third Iteration</a>
-- <a target="\_blank" href="../2.18/project3.07.html">Review</a>
-- <a target="\_blank" href="../2.18/project3.08.html">Rework</a>
-- <a target="\_blank" href="../2.18/project3.09.html">Fourth Iteration</a>
-- <a target="\_blank" href="../2.19/project3.10.html">Polish</a>
-- <a target="\_blank" href="../2.19/project3.11.html">Self-Retrospective</a>
+- <a target="\_blank" href="../2.11/project2.01.html">Kickoff</a>
+- <a target="\_blank" href="../2.11/project2.02.html">Preliminary Plannng</a>
+- <a target="\_blank" href="../2.12/project2.03.html">Plan Review</a>
+- <a target="\_blank" href="../2.12/project2.04.html">Setup</a>
+- <a target="\_blank" href="../2.12/project2.05.html">First Iteration</a>
+- <a target="\_blank" href="../2.13/project2.06.html">Second Iteration</a>
+- <a target="\_blank" href="../2.14/project2.07.html">Third Iteration</a>
+- <a target="\_blank" href="../2.15/project2.08.html">Polish</a>
+- <a target="\_blank" href="../2.15/project2.09.html">Retrospective</a>
 
 </td>
 </tr>
@@ -85,25 +84,25 @@ To accomplish this, try and stick to this rough outline:
 1. Biggest Challenges Overcome
 1. Q&A
 
-Your overall presentation should last **5-6 minutes**.
+Your overall presentation should last **10-12 minutes**.
 
 ### 1. Introduction
 
-#### _<1 minute_
+#### _1-2 minutes, each team member_
 
-Introduce yourself, maybe a bit about your background, your favorite part of the
-course, or what you look forward to most about getting into the industry.
+Round-robin introductions of your team members (each team member introducing
+themselves)
 
 ### 2. Show the App
 
-#### _1-2 minutes_
+#### _2-3 minutes, 1-2 team members_
 
 Show your audience around the application. Highlight key **acceptance criteria**
 or explain why some features were **not** tested.
 
 ### 3. Show your Tests
 
-#### _2-3 minutes_
+#### _3-5 minutes, 1-2 team members_
 
 Show a portion of your tests running, and narrate what they are checking as they
 do. Some code can be shown, but not too much.
@@ -112,10 +111,10 @@ do. Some code can be shown, but not too much.
 
 ### 4. Biggest Challenge(s) Overcome
 
-#### _1-2 minutes_
+#### _1-2 minutes, 1 team member_
 
-In completing this capstone, what was the biggest challenge you overcame and
-how?
+What was the biggest obstacle you overcame, and how did you for this capstone?
+This could be a problem with code, challenges collaborating, etc.
 
 ### 5. Q&A
 
@@ -127,9 +126,16 @@ for this specifically ahead of time, just know it may happen.
 
 ## Format Requirements
 
-### 1. Slide Deck
+### 1. Individual Contribution
 
-Your presentation is best outlined by a slide deck.
+Each team member should contribute to at least one major part of the
+presentation BESIDES the quick self-introduction.
+
+### 2. Slide Deck
+
+Your presentation is best outlined by a slide deck. While each student should
+outline their own contribution, this needs to be submitted as a single
+presentation.
 
 - Keep it professional.
   - Specific themes are up to you.
@@ -137,7 +143,7 @@ Your presentation is best outlined by a slide deck.
 - Keep it concise.
   - Long enough to cover the subject, but short enough to be interesting.
 
-### 2. Automation Execution
+### 3. Automation Execution
 
 Code being executed should be pre-recorded. Automation may be finnicky the day
 of, especially on a screen share.
@@ -147,11 +153,11 @@ of, especially on a screen share.
 - If the video is long, trim it down to show more of the different types of
   tests rather than showing the whole thing.
 
-### 3. Content Sharing
+### 4. Content Sharing
 
 Links are great, but can be hard to read/remember if they're too long.
 
-- Include your GitHub username.
+- Include your GitHub usernames.
 - Include the name of the repository.
 - If you want to share your test plan, summary report, etc, export to PDF and
   include it in the GitHub repo.
@@ -165,26 +171,26 @@ in person or remote.
 
 ### In Person Delivery
 
-As part of your graduation ceremony, your graduation MC will call you forward
-when it is your turn, and you will go through your presentation, hitting each of
-the areas discussed above live.
+As part of your graduation ceremony, your graduation MC will call your group
+forward when it is your turn, and you will go through your presentation, hitting
+each of the areas discussed above live.
 
 - Test execution should still be pre-recorded and embedded into the slide deck.
+- You will have one or two microphones to pass around your group.
 
 ### Remote Delivery
 
-During your zoom graduation, your project will be presented. Due to more
-stringent time limitations and possible issues with connectivity etc, you need
-to submit a pre-recorded presentation.
+During your zoom graduation, your team will be presented. Due to more stringent
+time limitations and possible issues with connectivity etc, you need to submit a
+pre-recorded presentation.
 
 - Get together with your group and record a screenshare of your presentation,
   with each of you narrating the appropriate sections as if you were presenting
   live.
-- The video needs to be submitted at the latest the day prior to graduation in
-  order for your graduation MC to verify the video and have it queued up for
-  presentation.
+- The video needs to be submitted a few days prior to graduation in order for
+  your graduation MC to verify the video and have it queued up for presentation.
 - See the Canvas due date for your cohort's submission deadline.
-- The video should NOT be longer than 6 minutes.
+- The video should NOT be longer than 12 minutes.
 
 ---
 
@@ -197,8 +203,8 @@ feel free to submit a link or email the files to your instructor directly.
 
 ## Solutions
 
-Your presentation is your baby, make it your own. Linked below are a couple of
-examples of similar presentations that may help guide your own efforts.
+Your presentation is 100% your baby. Linked below are a couple of examples of
+similar presentations that may help guide your own efforts.
 
 - <a target="\_blank" href="https://drive.google.com/file/d/1R9HE0saIJ6QX_rIOWYgxOdzQBUC5JRv-/view?usp=sharing">Stephanie
   (Solo Project)</a>

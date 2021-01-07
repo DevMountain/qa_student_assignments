@@ -14,9 +14,7 @@
 - [Step 3 - What Would We Change](#step-3---what-would-we-change)
 - [Step 3 - Testing Outcomes](#step-3---testing-outcomes)
 - [Step 4 - `README.md` Lessons Learned](#step-4---readmemd-lessons-learned)
-- [Step 5 - Presentation Prep](#step-5---presentation-prep)
 - [Submission](#submission)
-- [Great work!](#great-work)
 
 </td>
 <td markdown="1">
@@ -121,21 +119,12 @@ After your doc is update, push it up to GitHub.
 
 ---
 
-## Step 5 - Presentation Prep
-
-You will have a few minutes in your graduation to present this project and
-answer questions.
-
-**_Docs pending; aiming to re-use existing content_**
-
----
-
 ## Submission
 
-You're done! Great work, all that's left is actually sharing your presentation
-at graduation, but it's time to submit your project.
+You're done! Great work, all that's left is preparing for and sharing your
+presentation at graduation, but it's time to submit your project.
 
 In Canvas, submit a link to your test plan. We'll be able to get the rest from
-there.
+there!
 
 # Great work!
