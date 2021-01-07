@@ -12,7 +12,8 @@ your solutions for the challenges given within.
 ## Step 1
 
 1. View this repository:
-   - [github.com/DevMountain/qa_engineering_assessment](https://github.com/DevMountain/qa_engineering_assessment)
+   - <a href="https://github.com/DevMountain/qa_engineering_assessment" target="\_blank">qa_engineering_assessment</a>
+   - https://github.com/DevMountain/qa_engineering_assessment
 1. Follow the instructions there to set up the repository.
 
 ## Step 2
